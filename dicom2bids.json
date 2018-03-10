@@ -1,0 +1,27 @@
+{
+    "descriptions": [
+        {
+            "dataType": "anat",
+            "modalityLabel": "T1w",
+            "criteria": {
+                "SeriesDescription": "t1_mpr_*"
+            }
+        },
+        {
+            "dataType": "func",
+            "modalityLabel": "bold",
+            "customLabels": "task-loc",
+            "criteria": {
+                "SeriesDescription": "bic_epi_v1_3mm"
+            }
+        },
+        {
+            "dataType": "func",
+            "modalityLabel": "bold",
+            "customLabels": "task-exp",
+            "criteria": {
+                "SeriesDescription": "mz_ep2d_bold_dc"
+            }
+        }
+    ]
+}
