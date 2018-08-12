@@ -41,5 +41,5 @@ Installation with Singularity: http://fmriprep.readthedocs.io/en/latest/installa
 
 #### Links
 
-http://miykael.github.io/nipype-beginner-s-guide/
-http://fmriprep.readthedocs.io/en/latest/
+- http://miykael.github.io/nipype-beginner-s-guide/
+- http://fmriprep.readthedocs.io/en/latest/

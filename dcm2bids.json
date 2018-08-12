@@ -4,54 +4,27 @@
             "dataType": "anat",
             "suffix": "T1w",
             "criteria": {
-                "in": {"SeriesDescription": "T1W_3D"}
-            }
-        },
-        {
-            "dataType": "anat",
-            "suffix": "T2w",
-            "criteria": {
-                "in": {"SeriesDescription": "TSE"},
-                "equal": {"EchoTime": 0.1}
-            }
-        },
-        {
-            "dataType": "anat",
-            "suffix": "PD",
-            "criteria": {
-                "in": {"SeriesDescription": "TSE"},
-                "equal": {"EchoTime": 0.008}
-            }
-        },
-        {
-            "dataType": "anat",
-            "suffix": "FLAIR",
-            "criteria": {
-                "in": {"SeriesDescription": "FLAIR"}
-            }
-        },
-        {
-            "dataType": "dwi",
-            "suffix": "dwi",
-            "criteria": {
-                "in": {"SeriesDescription": "DWI"}
-            }
-        },
-        {
-            "dataType": "anat",
-            "suffix": "SWI",
-            "criteria": {
-                "in": {"SeriesDescription": "SWI"}
+                "in": {"SeriesDescription": "t1_mpr"}
             }
         },
         {
             "dataType": "func",
             "suffix": "bold",
             "criteria": {
-                "equal": {"SeriesDescription": "rs_fMRI"}
+                "in": {"SeriesDescription": "mz_ep2d_bold"}
             },
             "customHeader": {
-                "TaskName": "rest"
+                "TaskName": "exp"
+            }
+        },
+        {
+            "dataType": "func",
+            "suffix": "bold",
+            "criteria": {
+                "in": {"SeriesDescription": "bic_epi"}
+            },
+            "customHeader": {
+                "TaskName": "loc"
             }
         }
     ]
