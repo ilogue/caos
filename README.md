@@ -10,7 +10,7 @@ https://www.nitrc.org/frs/download.php/10163/mricrogl_linux.zip//?i_agree=1&down
 
 "Install" dcm2niix by linking it in /usr/bin
 ```
-sudo ln -s /home/jasper/Software/mricrogl_lx/dcm2niix /usr/local/bin/dcm2niix
+sudo ln -s <your github directory>/caos/bin/dcm2niix /usr/local/bin/dcm2niix
 ```
 
 Run dcm2niix to see example output on one subject
