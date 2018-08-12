@@ -1,10 +1,8 @@
 # caos
 CAOS project
 
-Setup python
-```
-virtualenv -p python3 env
-```
+
+### data prep: BIDS
 
 Download MRIcroGL which includes compiled dcm2niix
 
@@ -20,11 +18,7 @@ Run dcm2niix to see example output on one subject
 dcm2niix /path/to/dicom/folder
 ```
 
-http://miykael.github.io/nipype-beginner-s-guide/
-fmri prep:
-http://fmriprep.readthedocs.io/en/latest/
-
-
+- `raw.py` copy dicom directories to a simple *raw* directory
 - run bids validator
 - convert dicoms if necessary (dcm2bids)
 - provide meta data
@@ -34,3 +28,18 @@ Susceptability Distortion correction. ("B0") We have acquired Point Spread Funct
 http://fmriprep.readthedocs.io/en/latest/sdc.html#sdc
 
 Approach for now; do not import psf files and try to do automated correction.
+
+
+### preprocessing: fMRIprep
+
+
+Installation with Singularity: http://fmriprep.readthedocs.io/en/latest/installation.html#singularity-container
+
+- `sudo apt-get install singularity-container`
+- `singularity build Images/fmriprep-1.1.2.simg docker://poldracklab/fmriprep:1.1.2`
+
+
+#### Links
+
+http://miykael.github.io/nipype-beginner-s-guide/
+http://fmriprep.readthedocs.io/en/latest/
