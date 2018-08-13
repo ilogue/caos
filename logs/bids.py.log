@@ -1,0 +1,1348 @@
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2852 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_bic_epi_v1_3mm_20100521112521_series015 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_bold_dc_20100521112521_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_bold_dc_20100521112521_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_psf_20100521112521_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_psf_20100521112521_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_t1_mpr_siemens_PAT(best)_20100521112521_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_bold_dc_20100521112521_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_bold_dc_20100521112521_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_psf_20100521112521_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_psf_20100521112521_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_bold_dc_20100521112521_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_bold_dc_20100521112521_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_psf_20100521112521_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_mz_ep2d_psf_20100521112521_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_circle_localizer_20100521112521_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_circle_localizer_20100521112521_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-1/SG_circle_localizer_20100521112521_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 102.440824 seconds (53.288467 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2819 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 205 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_bic_epi_v1_3mm_20100511142702_series016 (64x64x33x205)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_bold_dc_20100511142702_series015 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_bold_dc_20100511142702_series014 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_psf_20100511142702_series013 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_psf_20100511142702_series012 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_t1_mpr_siemens_PAT(best)_20100511142702_series011 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_bold_dc_20100511142702_series010 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_bold_dc_20100511142702_series009 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_psf_20100511142702_series008 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_psf_20100511142702_series007 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 2 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_bic_epi_v1_3mm_20100511142702_series006 (64x64x33x2)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_bold_dc_20100511142702_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_bold_dc_20100511142702_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_psf_20100511142702_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_mz_ep2d_psf_20100511142702_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_circle_localizer_20100511142702_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_circle_localizer_20100511142702_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-2/SE_circle_localizer_20100511142702_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 94.945139 seconds (44.244961 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2822 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 210 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_bic_epi_v1_3mm_20100518100205_series015 (64x64x33x210)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_bold_dc_20100518100205_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_bold_dc_20100518100205_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_psf_20100518100205_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_psf_20100518100205_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_t1_mpr_siemens_PAT(best)_20100518100205_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_bold_dc_20100518100205_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_bold_dc_20100518100205_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_psf_20100518100205_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_psf_20100518100205_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_bold_dc_20100518100205_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_bold_dc_20100518100205_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_psf_20100518100205_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_mz_ep2d_psf_20100518100205_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_circle_localizer_20100518100205_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_circle_localizer_20100518100205_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-3/RL_circle_localizer_20100518100205_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 100.173433 seconds (47.985077 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2852 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_bic_epi_v1_3mm_20100629121634_series015 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_bold_dc_20100629121634_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_bold_dc_20100629121634_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_psf_20100629121634_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_psf_20100629121634_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_t1_mpr_siemens_PAT(best)_20100629121634_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_bold_dc_20100629121634_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_bold_dc_20100629121634_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_psf_20100629121634_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_psf_20100629121634_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_bold_dc_20100629121634_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_bold_dc_20100629121634_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_psf_20100629121634_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_mz_ep2d_psf_20100629121634_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_circle_localizer_20100629121634_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_circle_localizer_20100629121634_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-4/PF_circle_localizer_20100629121634_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 103.290412 seconds (49.039062 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2852 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_bic_epi_v1_3mm_20100525123238_series015 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_bold_dc_20100525123238_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_bold_dc_20100525123238_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_psf_20100525123238_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_psf_20100525123238_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_t1_mpr_siemens_PAT(best)_20100525123238_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_bold_dc_20100525123238_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_bold_dc_20100525123238_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_psf_20100525123238_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_psf_20100525123238_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_bold_dc_20100525123238_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_bold_dc_20100525123238_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_psf_20100525123238_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_mz_ep2d_psf_20100525123238_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_circle_localizer_20100525123238_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_circle_localizer_20100525123238_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-5/NS_circle_localizer_20100525123238_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 102.857037 seconds (48.502499 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2678 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series021 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series020 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_psf_20100507104627_series019 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_psf_20100507104627_series018 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_t1_mpr_siemens_PAT(best)_20100507104627_series017 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series016 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series015 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_psf_20100507104627_series014 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_psf_20100507104627_series013 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series012 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series011 (64x64x23x400)
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series010 (64x64x23x1)
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series009 (64x64x23x1)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_psf_20100507104627_series008 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_psf_20100507104627_series007 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_circle_localizer_20100507104627_series006_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_circle_localizer_20100507104627_series006_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_circle_localizer_20100507104627_series006 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 25 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series005 (64x64x23x25)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 25 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_bold_dc_20100507104627_series004 (64x64x23x25)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_psf_20100507104627_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_mz_ep2d_psf_20100507104627_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_circle_localizer_20100507104627_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_circle_localizer_20100507104627_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-6/MN_circle_localizer_20100507104627_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 89.572546 seconds (41.290394 for core code).
+
+
+
+##########
+Subject 1
+##########
+
+
+'SG_bic_epi_v1_3mm_20100521112521_series015.json' satisfies one description
+'SG_circle_localizer_20100521112521_series001_i00001.json' satisfies no description
+'SG_circle_localizer_20100521112521_series001_i00002.json' satisfies no description
+'SG_circle_localizer_20100521112521_series001_i00003.json' satisfies no description
+'SG_mz_ep2d_bold_dc_20100521112521_series004.json' satisfies one description
+'SG_mz_ep2d_bold_dc_20100521112521_series005.json' satisfies no description
+'SG_mz_ep2d_bold_dc_20100521112521_series008.json' satisfies one description
+'SG_mz_ep2d_bold_dc_20100521112521_series009.json' satisfies no description
+'SG_mz_ep2d_bold_dc_20100521112521_series013.json' satisfies one description
+'SG_mz_ep2d_bold_dc_20100521112521_series014.json' satisfies no description
+'SG_mz_ep2d_psf_20100521112521_series002.json' satisfies no description
+'SG_mz_ep2d_psf_20100521112521_series003.json' satisfies no description
+'SG_mz_ep2d_psf_20100521112521_series006.json' satisfies no description
+'SG_mz_ep2d_psf_20100521112521_series007.json' satisfies no description
+'SG_mz_ep2d_psf_20100521112521_series011.json' satisfies no description
+'SG_mz_ep2d_psf_20100521112521_series012.json' satisfies no description
+'SG_t1_mpr_siemens_PAT(best)_20100521112521_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 2
+##########
+
+
+'SE_bic_epi_v1_3mm_20100511142702_series006.json' satisfies one description
+'SE_bic_epi_v1_3mm_20100511142702_series016.json' satisfies one description
+'SE_circle_localizer_20100511142702_series001_i00001.json' satisfies no description
+'SE_circle_localizer_20100511142702_series001_i00002.json' satisfies no description
+'SE_circle_localizer_20100511142702_series001_i00003.json' satisfies no description
+'SE_mz_ep2d_bold_dc_20100511142702_series004.json' satisfies one description
+'SE_mz_ep2d_bold_dc_20100511142702_series005.json' satisfies no description
+'SE_mz_ep2d_bold_dc_20100511142702_series009.json' satisfies one description
+'SE_mz_ep2d_bold_dc_20100511142702_series010.json' satisfies no description
+'SE_mz_ep2d_bold_dc_20100511142702_series014.json' satisfies one description
+'SE_mz_ep2d_bold_dc_20100511142702_series015.json' satisfies no description
+'SE_mz_ep2d_psf_20100511142702_series002.json' satisfies no description
+'SE_mz_ep2d_psf_20100511142702_series003.json' satisfies no description
+'SE_mz_ep2d_psf_20100511142702_series007.json' satisfies no description
+'SE_mz_ep2d_psf_20100511142702_series008.json' satisfies no description
+'SE_mz_ep2d_psf_20100511142702_series012.json' satisfies no description
+'SE_mz_ep2d_psf_20100511142702_series013.json' satisfies no description
+'SE_t1_mpr_siemens_PAT(best)_20100511142702_series011.json' satisfies one description
+'task-exp_bold': has several runs
+'task-loc_bold': has several runs
+
+
+
+
+##########
+Subject 3
+##########
+
+
+'RL_bic_epi_v1_3mm_20100518100205_series015.json' satisfies one description
+'RL_circle_localizer_20100518100205_series001_i00001.json' satisfies no description
+'RL_circle_localizer_20100518100205_series001_i00002.json' satisfies no description
+'RL_circle_localizer_20100518100205_series001_i00003.json' satisfies no description
+'RL_mz_ep2d_bold_dc_20100518100205_series004.json' satisfies one description
+'RL_mz_ep2d_bold_dc_20100518100205_series005.json' satisfies no description
+'RL_mz_ep2d_bold_dc_20100518100205_series008.json' satisfies one description
+'RL_mz_ep2d_bold_dc_20100518100205_series009.json' satisfies no description
+'RL_mz_ep2d_bold_dc_20100518100205_series013.json' satisfies one description
+'RL_mz_ep2d_bold_dc_20100518100205_series014.json' satisfies no description
+'RL_mz_ep2d_psf_20100518100205_series002.json' satisfies no description
+'RL_mz_ep2d_psf_20100518100205_series003.json' satisfies no description
+'RL_mz_ep2d_psf_20100518100205_series006.json' satisfies no description
+'RL_mz_ep2d_psf_20100518100205_series007.json' satisfies no description
+'RL_mz_ep2d_psf_20100518100205_series011.json' satisfies no description
+'RL_mz_ep2d_psf_20100518100205_series012.json' satisfies no description
+'RL_t1_mpr_siemens_PAT(best)_20100518100205_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 4
+##########
+
+
+'PF_bic_epi_v1_3mm_20100629121634_series015.json' satisfies one description
+'PF_circle_localizer_20100629121634_series001_i00001.json' satisfies no description
+'PF_circle_localizer_20100629121634_series001_i00002.json' satisfies no description
+'PF_circle_localizer_20100629121634_series001_i00003.json' satisfies no description
+'PF_mz_ep2d_bold_dc_20100629121634_series004.json' satisfies one description
+'PF_mz_ep2d_bold_dc_20100629121634_series005.json' satisfies no description
+'PF_mz_ep2d_bold_dc_20100629121634_series008.json' satisfies one description
+'PF_mz_ep2d_bold_dc_20100629121634_series009.json' satisfies no description
+'PF_mz_ep2d_bold_dc_20100629121634_series013.json' satisfies one description
+'PF_mz_ep2d_bold_dc_20100629121634_series014.json' satisfies no description
+'PF_mz_ep2d_psf_20100629121634_series002.json' satisfies no description
+'PF_mz_ep2d_psf_20100629121634_series003.json' satisfies no description
+'PF_mz_ep2d_psf_20100629121634_series006.json' satisfies no description
+'PF_mz_ep2d_psf_20100629121634_series007.json' satisfies no description
+'PF_mz_ep2d_psf_20100629121634_series011.json' satisfies no description
+'PF_mz_ep2d_psf_20100629121634_series012.json' satisfies no description
+'PF_t1_mpr_siemens_PAT(best)_20100629121634_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 5
+##########
+
+
+'NS_bic_epi_v1_3mm_20100525123238_series015.json' satisfies one description
+'NS_circle_localizer_20100525123238_series001_i00001.json' satisfies no description
+'NS_circle_localizer_20100525123238_series001_i00002.json' satisfies no description
+'NS_circle_localizer_20100525123238_series001_i00003.json' satisfies no description
+'NS_mz_ep2d_bold_dc_20100525123238_series004.json' satisfies one description
+'NS_mz_ep2d_bold_dc_20100525123238_series005.json' satisfies no description
+'NS_mz_ep2d_bold_dc_20100525123238_series008.json' satisfies one description
+'NS_mz_ep2d_bold_dc_20100525123238_series009.json' satisfies no description
+'NS_mz_ep2d_bold_dc_20100525123238_series013.json' satisfies one description
+'NS_mz_ep2d_bold_dc_20100525123238_series014.json' satisfies no description
+'NS_mz_ep2d_psf_20100525123238_series002.json' satisfies no description
+'NS_mz_ep2d_psf_20100525123238_series003.json' satisfies no description
+'NS_mz_ep2d_psf_20100525123238_series006.json' satisfies no description
+'NS_mz_ep2d_psf_20100525123238_series007.json' satisfies no description
+'NS_mz_ep2d_psf_20100525123238_series011.json' satisfies no description
+'NS_mz_ep2d_psf_20100525123238_series012.json' satisfies no description
+'NS_t1_mpr_siemens_PAT(best)_20100525123238_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 6
+##########
+
+
+'MN_circle_localizer_20100507104627_series001_i00001.json' satisfies no description
+'MN_circle_localizer_20100507104627_series001_i00002.json' satisfies no description
+'MN_circle_localizer_20100507104627_series001_i00003.json' satisfies no description
+'MN_circle_localizer_20100507104627_series006.json' satisfies no description
+'MN_circle_localizer_20100507104627_series006_i00002.json' satisfies no description
+'MN_circle_localizer_20100507104627_series006_i00003.json' satisfies no description
+'MN_mz_ep2d_bold_dc_20100507104627_series004.json' satisfies one description
+'MN_mz_ep2d_bold_dc_20100507104627_series005.json' satisfies no description
+'MN_mz_ep2d_bold_dc_20100507104627_series009.json' satisfies one description
+'MN_mz_ep2d_bold_dc_20100507104627_series010.json' satisfies no description
+'MN_mz_ep2d_bold_dc_20100507104627_series011.json' satisfies one description
+'MN_mz_ep2d_bold_dc_20100507104627_series012.json' satisfies no description
+'MN_mz_ep2d_bold_dc_20100507104627_series015.json' satisfies one description
+'MN_mz_ep2d_bold_dc_20100507104627_series016.json' satisfies no description
+'MN_mz_ep2d_bold_dc_20100507104627_series020.json' satisfies one descriptionCompression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 3553 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_bic_epi_v1_3mm_20100625112801_series024 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_bold_dc_20100625112801_series023 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_bold_dc_20100625112801_series022 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series021 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series020 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_t1_mpr_siemens_PAT(best)_20100625112801_series019 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_bold_dc_20100625112801_series018 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_bold_dc_20100625112801_series017 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series016 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series015 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_bold_dc_20100625112801_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_bold_dc_20100625112801_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series011 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series010_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series010_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series010 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series009_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series009_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series009 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series008_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series008_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series008 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 335 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_bold_dc_20100625112801_series005 (64x64x23x335)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 335 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_bold_dc_20100625112801_series004 (64x64x23x335)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_mz_ep2d_psf_20100625112801_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-7/MM_circle_localizer_20100625112801_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 122.072325 seconds (57.359543 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2855 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_bic_epi_v1_3mm_20100625102314_series016 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_bold_dc_20100625102314_series015 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_bold_dc_20100625102314_series014 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_psf_20100625102314_series013 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_psf_20100625102314_series012 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_t1_mpr_siemens_PAT(best)_20100625102314_series011 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_bold_dc_20100625102314_series010 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_bold_dc_20100625102314_series009 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_psf_20100625102314_series008 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_psf_20100625102314_series007 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_bold_dc_20100625102314_series006 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_bold_dc_20100625102314_series005 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_psf_20100625102314_series004 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_mz_ep2d_psf_20100625102314_series003 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_circle_localizer_20100625102314_series002_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_circle_localizer_20100625102314_series002_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_circle_localizer_20100625102314_series002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_circle_localizer_20100625102314_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_circle_localizer_20100625102314_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-8/MH_circle_localizer_20100625102314_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 104.033180 seconds (48.710106 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2822 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 210 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_bic_epi_v1_3mm_20100518123318_series015 (64x64x33x210)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_bold_dc_20100518123318_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_bold_dc_20100518123318_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_psf_20100518123318_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_psf_20100518123318_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_t1_mpr_siemens_PAT(best)_20100518123318_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_bold_dc_20100518123318_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_bold_dc_20100518123318_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_psf_20100518123318_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_psf_20100518123318_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_bold_dc_20100518123318_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_bold_dc_20100518123318_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_psf_20100518123318_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_mz_ep2d_psf_20100518123318_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_circle_localizer_20100518123318_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_circle_localizer_20100518123318_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-9/MD_circle_localizer_20100518123318_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 103.589985 seconds (50.447689 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2817 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 205 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_bic_epi_v1_3mm_20100511131607_series015 (64x64x33x205)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_bold_dc_20100511131607_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_bold_dc_20100511131607_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_psf_20100511131607_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_psf_20100511131607_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_t1_mpr_siemens_PAT(best)_20100511131607_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_bold_dc_20100511131607_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_bold_dc_20100511131607_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_psf_20100511131607_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_psf_20100511131607_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_bold_dc_20100511131607_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_bold_dc_20100511131607_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_psf_20100511131607_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_mz_ep2d_psf_20100511131607_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_circle_localizer_20100511131607_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_circle_localizer_20100511131607_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-10/LS_circle_localizer_20100511131607_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 100.688228 seconds (48.323154 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2855 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_bic_epi_v1_3mm_20100525112317_series016 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_bold_dc_20100525112317_series015 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_bold_dc_20100525112317_series014 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_psf_20100525112317_series013 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_psf_20100525112317_series012 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_t1_mpr_siemens_PAT(best)_20100525112317_series011 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_bold_dc_20100525112317_series010 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_bold_dc_20100525112317_series009 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_psf_20100525112317_series008 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_psf_20100525112317_series007 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_bold_dc_20100525112317_series006 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_bold_dc_20100525112317_series005 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_psf_20100525112317_series004 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_mz_ep2d_psf_20100525112317_series003 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_circle_localizer_20100525112317_series002_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_circle_localizer_20100525112317_series002_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_circle_localizer_20100525112317_series002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_circle_localizer_20100525112317_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_circle_localizer_20100525112317_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-11/LG_circle_localizer_20100525112317_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 106.583035 seconds (53.546188 for core code).
+
+'MN_mz_ep2d_bold_dc_20100507104627_series021.json' satisfies no description
+'MN_mz_ep2d_psf_20100507104627_series002.json' satisfies no description
+'MN_mz_ep2d_psf_20100507104627_series003.json' satisfies no description
+'MN_mz_ep2d_psf_20100507104627_series007.json' satisfies no description
+'MN_mz_ep2d_psf_20100507104627_series008.json' satisfies no description
+'MN_mz_ep2d_psf_20100507104627_series013.json' satisfies no description
+'MN_mz_ep2d_psf_20100507104627_series014.json' satisfies no description
+'MN_mz_ep2d_psf_20100507104627_series018.json' satisfies no description
+'MN_mz_ep2d_psf_20100507104627_series019.json' satisfies no description
+'MN_t1_mpr_siemens_PAT(best)_20100507104627_series017.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 7
+##########
+
+
+'MM_bic_epi_v1_3mm_20100625112801_series024.json' satisfies one description
+'MM_circle_localizer_20100625112801_series001_i00001.json' satisfies no description
+'MM_circle_localizer_20100625112801_series001_i00002.json' satisfies no description
+'MM_circle_localizer_20100625112801_series001_i00003.json' satisfies no description
+'MM_circle_localizer_20100625112801_series008.json' satisfies no description
+'MM_circle_localizer_20100625112801_series008_i00002.json' satisfies no description
+'MM_circle_localizer_20100625112801_series008_i00003.json' satisfies no description
+'MM_circle_localizer_20100625112801_series009.json' satisfies no description
+'MM_circle_localizer_20100625112801_series009_i00002.json' satisfies no description
+'MM_circle_localizer_20100625112801_series009_i00003.json' satisfies no description
+'MM_circle_localizer_20100625112801_series010.json' satisfies no description
+'MM_circle_localizer_20100625112801_series010_i00002.json' satisfies no description
+'MM_circle_localizer_20100625112801_series010_i00003.json' satisfies no description
+'MM_mz_ep2d_bold_dc_20100625112801_series004.json' satisfies one description
+'MM_mz_ep2d_bold_dc_20100625112801_series005.json' satisfies no description
+'MM_mz_ep2d_bold_dc_20100625112801_series013.json' satisfies one description
+'MM_mz_ep2d_bold_dc_20100625112801_series014.json' satisfies no description
+'MM_mz_ep2d_bold_dc_20100625112801_series017.json' satisfies one description
+'MM_mz_ep2d_bold_dc_20100625112801_series018.json' satisfies no description
+'MM_mz_ep2d_bold_dc_20100625112801_series022.json' satisfies one description
+'MM_mz_ep2d_bold_dc_20100625112801_series023.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series002.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series003.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series006.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series007.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series011.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series012.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series015.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series016.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series020.json' satisfies no description
+'MM_mz_ep2d_psf_20100625112801_series021.json' satisfies no description
+'MM_t1_mpr_siemens_PAT(best)_20100625112801_series019.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 8
+##########
+
+
+'MH_bic_epi_v1_3mm_20100625102314_series016.json' satisfies one description
+'MH_circle_localizer_20100625102314_series001_i00001.json' satisfies no description
+'MH_circle_localizer_20100625102314_series001_i00002.json' satisfies no description
+'MH_circle_localizer_20100625102314_series001_i00003.json' satisfies no description
+'MH_circle_localizer_20100625102314_series002.json' satisfies no description
+'MH_circle_localizer_20100625102314_series002_i00002.json' satisfies no description
+'MH_circle_localizer_20100625102314_series002_i00003.json' satisfies no description
+'MH_mz_ep2d_bold_dc_20100625102314_series005.json' satisfies one description
+'MH_mz_ep2d_bold_dc_20100625102314_series006.json' satisfies no description
+'MH_mz_ep2d_bold_dc_20100625102314_series009.json' satisfies one description
+'MH_mz_ep2d_bold_dc_20100625102314_series010.json' satisfies no description
+'MH_mz_ep2d_bold_dc_20100625102314_series014.json' satisfies one description
+'MH_mz_ep2d_bold_dc_20100625102314_series015.json' satisfies no description
+'MH_mz_ep2d_psf_20100625102314_series003.json' satisfies no description
+'MH_mz_ep2d_psf_20100625102314_series004.json' satisfies no description
+'MH_mz_ep2d_psf_20100625102314_series007.json' satisfies no description
+'MH_mz_ep2d_psf_20100625102314_series008.json' satisfies no description
+'MH_mz_ep2d_psf_20100625102314_series012.json' satisfies no description
+'MH_mz_ep2d_psf_20100625102314_series013.json' satisfies no description
+'MH_t1_mpr_siemens_PAT(best)_20100625102314_series011.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 9
+##########
+
+
+'MD_bic_epi_v1_3mm_20100518123318_series015.json' satisfies one description
+'MD_circle_localizer_20100518123318_series001_i00001.json' satisfies no description
+'MD_circle_localizer_20100518123318_series001_i00002.json' satisfies no description
+'MD_circle_localizer_20100518123318_series001_i00003.json' satisfies no description
+'MD_mz_ep2d_bold_dc_20100518123318_series004.json' satisfies one description
+'MD_mz_ep2d_bold_dc_20100518123318_series005.json' satisfies no description
+'MD_mz_ep2d_bold_dc_20100518123318_series008.json' satisfies one description
+'MD_mz_ep2d_bold_dc_20100518123318_series009.json' satisfies no description
+'MD_mz_ep2d_bold_dc_20100518123318_series013.json' satisfies one description
+'MD_mz_ep2d_bold_dc_20100518123318_series014.json' satisfies no description
+'MD_mz_ep2d_psf_20100518123318_series002.json' satisfies no description
+'MD_mz_ep2d_psf_20100518123318_series003.json' satisfies no description
+'MD_mz_ep2d_psf_20100518123318_series006.json' satisfies no description
+'MD_mz_ep2d_psf_20100518123318_series007.json' satisfies no description
+'MD_mz_ep2d_psf_20100518123318_series011.json' satisfies no description
+'MD_mz_ep2d_psf_20100518123318_series012.json' satisfies no description
+'MD_t1_mpr_siemens_PAT(best)_20100518123318_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 10
+##########
+
+
+'LS_bic_epi_v1_3mm_20100511131607_series015.json' satisfies one description
+'LS_circle_localizer_20100511131607_series001_i00001.json' satisfies no description
+'LS_circle_localizer_20100511131607_series001_i00002.json' satisfies no description
+'LS_circle_localizer_20100511131607_series001_i00003.json' satisfies no description
+'LS_mz_ep2d_bold_dc_20100511131607_series004.json' satisfies one description
+'LS_mz_ep2d_bold_dc_20100511131607_series005.json' satisfies no description
+'LS_mz_ep2d_bold_dc_20100511131607_series008.json' satisfies one description
+'LS_mz_ep2d_bold_dc_20100511131607_series009.json' satisfies no description
+'LS_mz_ep2d_bold_dc_20100511131607_series013.json' satisfies one description
+'LS_mz_ep2d_bold_dc_20100511131607_series014.json' satisfies no description
+'LS_mz_ep2d_psf_20100511131607_series002.json' satisfies no description
+'LS_mz_ep2d_psf_20100511131607_series003.json' satisfies no description
+'LS_mz_ep2d_psf_20100511131607_series006.json' satisfies no description
+'LS_mz_ep2d_psf_20100511131607_series007.json' satisfies no description
+'LS_mz_ep2d_psf_20100511131607_series011.json' satisfies no description
+'LS_mz_ep2d_psf_20100511131607_series012.json' satisfies no description
+'LS_t1_mpr_siemens_PAT(best)_20100511131607_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 11
+##########
+
+
+'LG_bic_epi_v1_3mm_20100525112317_series016.json' satisfies one description
+'LG_circle_localizer_20100525112317_series001_i00001.json' satisfies no description
+'LG_circle_localizer_20100525112317_series001_i00002.json' satisfies no description
+'LG_circle_localizer_20100525112317_series001_i00003.json' satisfies no description
+'LG_circle_localizer_20100525112317_series002.json' satisfies no description
+'LG_circle_localizer_20100525112317_series002_i00002.json' satisfies no descriptionCompression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 1586 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 210 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-12/KV_bic_epi_v1_3mm_20100514105034_series019 (64x64x33x210)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-12/KV_mz_ep2d_bold_dc_20100514105034_series018 (64x64x23x400)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-12/KV_t1_mpr_siemens_PAT(best)_20100514105034_series014 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-12/KV_mz_ep2d_bold_dc_20100514105034_series013 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-12/KV_mz_ep2d_bold_dc_20100514105034_series007 (64x64x23x400)
+Conversion required 57.544790 seconds (28.503395 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2863 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_bic_epi_v1_3mm_20100525100952_series017 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_bold_dc_20100525100952_series016 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_bold_dc_20100525100952_series015 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_psf_20100525100952_series014 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_psf_20100525100952_series013 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_t1_mpr_siemens_PAT(best)_20100525100952_series012 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_bold_dc_20100525100952_series011 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_bold_dc_20100525100952_series010 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_psf_20100525100952_series009 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_psf_20100525100952_series008 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_bold_dc_20100525100952_series007 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_bold_dc_20100525100952_series006 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_psf_20100525100952_series005 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_psf_20100525100952_series004 (64x64x23x7)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_psf_20100525100952_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_mz_ep2d_psf_20100525100952_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_circle_localizer_20100525100952_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_circle_localizer_20100525100952_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-13/KD_circle_localizer_20100525100952_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 99.241932 seconds (46.152702 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2855 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_bic_epi_v1_3mm_20100629104855_series016 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_bold_dc_20100629104855_series015 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_bold_dc_20100629104855_series014 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_psf_20100629104855_series013 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_psf_20100629104855_series012 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_t1_mpr_siemens_PAT(best)_20100629104855_series011 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_bold_dc_20100629104855_series010 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_bold_dc_20100629104855_series009 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_psf_20100629104855_series008 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_psf_20100629104855_series007 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_bold_dc_20100629104855_series006 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_bold_dc_20100629104855_series005 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_psf_20100629104855_series004 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_mz_ep2d_psf_20100629104855_series003 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_circle_localizer_20100629104855_series002_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_circle_localizer_20100629104855_series002_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_circle_localizer_20100629104855_series002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_circle_localizer_20100629104855_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_circle_localizer_20100629104855_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-14/JD_circle_localizer_20100629104855_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 100.639488 seconds (47.202847 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2822 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 210 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_bic_epi_v1_3mm_20100514123137_series015 (64x64x33x210)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_bold_dc_20100514123137_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_bold_dc_20100514123137_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_psf_20100514123137_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_psf_20100514123137_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_t1_mpr_siemens_PAT(best)_20100514123137_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_bold_dc_20100514123137_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_bold_dc_20100514123137_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_psf_20100514123137_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_psf_20100514123137_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_bold_dc_20100514123137_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_bold_dc_20100514123137_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_psf_20100514123137_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_mz_ep2d_psf_20100514123137_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_circle_localizer_20100514123137_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_circle_localizer_20100514123137_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-15/JB_circle_localizer_20100514123137_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 103.383215 seconds (48.399971 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2852 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_bic_epi_v1_3mm_20100521122634_series015 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_bold_dc_20100521122634_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_bold_dc_20100521122634_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_psf_20100521122634_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_psf_20100521122634_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_t1_mpr_siemens_PAT(best)_20100521122634_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_bold_dc_20100521122634_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_bold_dc_20100521122634_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_psf_20100521122634_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_psf_20100521122634_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_bold_dc_20100521122634_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_bold_dc_20100521122634_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_psf_20100521122634_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_mz_ep2d_psf_20100521122634_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_circle_localizer_20100521122634_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_circle_localizer_20100521122634_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-16/FL_circle_localizer_20100521122634_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 101.352835 seconds (49.080078 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 1586 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 210 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-17/EW_bic_epi_v1_3mm_20100511154748_series016 (64x64x33x210)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-17/EW_mz_ep2d_bold_dc_20100511154748_series015 (64x64x23x400)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-17/EW_t1_mpr_siemens_PAT(best)_20100511154748_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-17/EW_mz_ep2d_bold_dc_20100511154748_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-17/EW_mz_ep2d_bold_dc_20100511154748_series005 (64x64x23x400)
+Conversion required 59.745184 seconds (28.640512 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2852 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_bic_epi_v1_3mm_20100518110656_series015 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_bold_dc_20100518110656_series014 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_bold_dc_20100518110656_series013 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_psf_20100518110656_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_psf_20100518110656_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_t1_mpr_siemens_PAT(best)_20100518110656_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_bold_dc_20100518110656_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_bold_dc_20100518110656_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_psf_20100518110656_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_psf_20100518110656_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_bold_dc_20100518110656_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_bold_dc_20100518110656_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_psf_20100518110656_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_mz_ep2d_psf_20100518110656_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_circle_localizer_20100518110656_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_circle_localizer_20100518110656_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-18/DD_circle_localizer_20100518110656_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 102.420374 seconds (50.840000 for core code).
+
+'LG_circle_localizer_20100525112317_series002_i00003.json' satisfies no description
+'LG_mz_ep2d_bold_dc_20100525112317_series005.json' satisfies one description
+'LG_mz_ep2d_bold_dc_20100525112317_series006.json' satisfies no description
+'LG_mz_ep2d_bold_dc_20100525112317_series009.json' satisfies one description
+'LG_mz_ep2d_bold_dc_20100525112317_series010.json' satisfies no description
+'LG_mz_ep2d_bold_dc_20100525112317_series014.json' satisfies one description
+'LG_mz_ep2d_bold_dc_20100525112317_series015.json' satisfies no description
+'LG_mz_ep2d_psf_20100525112317_series003.json' satisfies no description
+'LG_mz_ep2d_psf_20100525112317_series004.json' satisfies no description
+'LG_mz_ep2d_psf_20100525112317_series007.json' satisfies no description
+'LG_mz_ep2d_psf_20100525112317_series008.json' satisfies no description
+'LG_mz_ep2d_psf_20100525112317_series012.json' satisfies no description
+'LG_mz_ep2d_psf_20100525112317_series013.json' satisfies no description
+'LG_t1_mpr_siemens_PAT(best)_20100525112317_series011.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 12
+##########
+
+
+'KV_bic_epi_v1_3mm_20100514105034_series019.json' satisfies one description
+'KV_mz_ep2d_bold_dc_20100514105034_series007.json' satisfies no description
+'KV_mz_ep2d_bold_dc_20100514105034_series013.json' satisfies no description
+'KV_mz_ep2d_bold_dc_20100514105034_series018.json' satisfies no description
+'KV_t1_mpr_siemens_PAT(best)_20100514105034_series014.json' satisfies one description
+
+
+
+
+##########
+Subject 13
+##########
+
+
+'KD_bic_epi_v1_3mm_20100525100952_series017.json' satisfies one description
+'KD_circle_localizer_20100525100952_series001_i00001.json' satisfies no description
+'KD_circle_localizer_20100525100952_series001_i00002.json' satisfies no description
+'KD_circle_localizer_20100525100952_series001_i00003.json' satisfies no description
+'KD_mz_ep2d_bold_dc_20100525100952_series006.json' satisfies one description
+'KD_mz_ep2d_bold_dc_20100525100952_series007.json' satisfies no description
+'KD_mz_ep2d_bold_dc_20100525100952_series010.json' satisfies one description
+'KD_mz_ep2d_bold_dc_20100525100952_series011.json' satisfies no description
+'KD_mz_ep2d_bold_dc_20100525100952_series015.json' satisfies one description
+'KD_mz_ep2d_bold_dc_20100525100952_series016.json' satisfies no description
+'KD_mz_ep2d_psf_20100525100952_series002.json' satisfies no description
+'KD_mz_ep2d_psf_20100525100952_series003.json' satisfies no description
+'KD_mz_ep2d_psf_20100525100952_series004.json' satisfies no description
+'KD_mz_ep2d_psf_20100525100952_series005.json' satisfies no description
+'KD_mz_ep2d_psf_20100525100952_series008.json' satisfies no description
+'KD_mz_ep2d_psf_20100525100952_series009.json' satisfies no description
+'KD_mz_ep2d_psf_20100525100952_series013.json' satisfies no description
+'KD_mz_ep2d_psf_20100525100952_series014.json' satisfies no description
+'KD_t1_mpr_siemens_PAT(best)_20100525100952_series012.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 14
+##########
+
+
+'JD_bic_epi_v1_3mm_20100629104855_series016.json' satisfies one description
+'JD_circle_localizer_20100629104855_series001_i00001.json' satisfies no description
+'JD_circle_localizer_20100629104855_series001_i00002.json' satisfies no description
+'JD_circle_localizer_20100629104855_series001_i00003.json' satisfies no description
+'JD_circle_localizer_20100629104855_series002.json' satisfies no description
+'JD_circle_localizer_20100629104855_series002_i00002.json' satisfies no description
+'JD_circle_localizer_20100629104855_series002_i00003.json' satisfies no description
+'JD_mz_ep2d_bold_dc_20100629104855_series005.json' satisfies one description
+'JD_mz_ep2d_bold_dc_20100629104855_series006.json' satisfies no description
+'JD_mz_ep2d_bold_dc_20100629104855_series009.json' satisfies one description
+'JD_mz_ep2d_bold_dc_20100629104855_series010.json' satisfies no description
+'JD_mz_ep2d_bold_dc_20100629104855_series014.json' satisfies one description
+'JD_mz_ep2d_bold_dc_20100629104855_series015.json' satisfies no description
+'JD_mz_ep2d_psf_20100629104855_series003.json' satisfies no description
+'JD_mz_ep2d_psf_20100629104855_series004.json' satisfies no description
+'JD_mz_ep2d_psf_20100629104855_series007.json' satisfies no description
+'JD_mz_ep2d_psf_20100629104855_series008.json' satisfies no description
+'JD_mz_ep2d_psf_20100629104855_series012.json' satisfies no description
+'JD_mz_ep2d_psf_20100629104855_series013.json' satisfies no description
+'JD_t1_mpr_siemens_PAT(best)_20100629104855_series011.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 15
+##########
+
+
+'JB_bic_epi_v1_3mm_20100514123137_series015.json' satisfies one description
+'JB_circle_localizer_20100514123137_series001_i00001.json' satisfies no description
+'JB_circle_localizer_20100514123137_series001_i00002.json' satisfies no description
+'JB_circle_localizer_20100514123137_series001_i00003.json' satisfies no description
+'JB_mz_ep2d_bold_dc_20100514123137_series004.json' satisfies one description
+'JB_mz_ep2d_bold_dc_20100514123137_series005.json' satisfies no description
+'JB_mz_ep2d_bold_dc_20100514123137_series008.json' satisfies one description
+'JB_mz_ep2d_bold_dc_20100514123137_series009.json' satisfies no description
+'JB_mz_ep2d_bold_dc_20100514123137_series013.json' satisfies one description
+'JB_mz_ep2d_bold_dc_20100514123137_series014.json' satisfies no description
+'JB_mz_ep2d_psf_20100514123137_series002.json' satisfies no description
+'JB_mz_ep2d_psf_20100514123137_series003.json' satisfies no description
+'JB_mz_ep2d_psf_20100514123137_series006.json' satisfies no description
+'JB_mz_ep2d_psf_20100514123137_series007.json' satisfies no description
+'JB_mz_ep2d_psf_20100514123137_series011.json' satisfies no description
+'JB_mz_ep2d_psf_20100514123137_series012.json' satisfies no description
+'JB_t1_mpr_siemens_PAT(best)_20100514123137_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 16
+##########
+
+
+'FL_bic_epi_v1_3mm_20100521122634_series015.json' satisfies one description
+'FL_circle_localizer_20100521122634_series001_i00001.json' satisfies no description
+'FL_circle_localizer_20100521122634_series001_i00002.json' satisfies no description
+'FL_circle_localizer_20100521122634_series001_i00003.json' satisfies no description
+'FL_mz_ep2d_bold_dc_20100521122634_series004.json' satisfies one description
+'FL_mz_ep2d_bold_dc_20100521122634_series005.json' satisfies no description
+'FL_mz_ep2d_bold_dc_20100521122634_series008.json' satisfies one description
+'FL_mz_ep2d_bold_dc_20100521122634_series009.json' satisfies no description
+'FL_mz_ep2d_bold_dc_20100521122634_series013.json' satisfies one description
+'FL_mz_ep2d_bold_dc_20100521122634_series014.json' satisfies no description
+'FL_mz_ep2d_psf_20100521122634_series002.json' satisfies no description
+'FL_mz_ep2d_psf_20100521122634_series003.json' satisfies no description
+'FL_mz_ep2d_psf_20100521122634_series006.json' satisfies no description
+'FL_mz_ep2d_psf_20100521122634_series007.json' satisfies no description
+'FL_mz_ep2d_psf_20100521122634_series011.json' satisfies no description
+'FL_mz_ep2d_psf_20100521122634_series012.json' satisfies no description
+'FL_t1_mpr_siemens_PAT(best)_20100521122634_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 17
+##########
+
+
+'EW_bic_epi_v1_3mm_20100511154748_series016.json' satisfies one description
+'EW_mz_ep2d_bold_dc_20100511154748_series005.json' satisfies no description
+'EW_mz_ep2d_bold_dc_20100511154748_series009.json' satisfies no description
+'EW_mz_ep2d_bold_dc_20100511154748_series015.json' satisfies no description
+'EW_t1_mpr_siemens_PAT(best)_20100511154748_series010.json' satisfies one description
+
+
+
+
+##########
+Subject 18
+##########
+
+
+'DD_bic_epi_v1_3mm_20100518110656_series015.json' satisfies one description
+'DD_circle_localizer_20100518110656_series001_i00001.json' satisfies no description
+'DD_circle_localizer_20100518110656_series001_i00002.json' satisfies no description
+'DD_circle_localizer_20100518110656_series001_i00003.json' satisfies no descriptionCompression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2795 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_bic_epi_v1_3mm_20100625130018_series017 (64x64x33x240)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_psf_20100625130018_series016 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_psf_20100625130018_series015 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 366 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_bold_dc_20100625130018_series014 (64x64x23x366)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 366 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_bold_dc_20100625130018_series013 (64x64x23x366)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_psf_20100625130018_series012 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_psf_20100625130018_series011 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_t1_mpr_siemens_PAT(best)_20100625130018_series010 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_bold_dc_20100625130018_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_bold_dc_20100625130018_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_psf_20100625130018_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_psf_20100625130018_series006 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_bold_dc_20100625130018_series005 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_bold_dc_20100625130018_series004 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_psf_20100625130018_series003 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_mz_ep2d_psf_20100625130018_series002 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_circle_localizer_20100625130018_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_circle_localizer_20100625130018_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-19/CS_circle_localizer_20100625130018_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 100.051516 seconds (47.759602 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2858 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_bold_dc_20100507121114_series017 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_bold_dc_20100507121114_series016 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_psf_20100507121114_series015 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_psf_20100507121114_series014 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_t1_mpr_siemens_PAT(best)_20100507121114_series013 (256x256x176x1)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_bold_dc_20100507121114_series012 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_bold_dc_20100507121114_series011 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_psf_20100507121114_series010 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_psf_20100507121114_series009 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_bic_epi_v1_3mm_20100507121114_series008 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_bold_dc_20100507121114_series007 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_bold_dc_20100507121114_series006 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_psf_20100507121114_series005 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_mz_ep2d_psf_20100507121114_series004 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_circle_localizer_20100507121114_series003_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_circle_localizer_20100507121114_series003_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_circle_localizer_20100507121114_series003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_circle_localizer_20100507121114_series002_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_circle_localizer_20100507121114_series002_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_circle_localizer_20100507121114_series002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_circle_localizer_20100507121114_series001_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_circle_localizer_20100507121114_series001_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-20/CA_circle_localizer_20100507121114_series001_i00001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 99.027937 seconds (44.965809 for core code).
+Compression will be faster with 'pigz' installed
+Chris Rorden's dcm2niiX version v1.0.20180622 GCC7.3.0 (64-bit Linux)
+Found 2867 DICOM file(s)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 240 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_bic_epi_v1_3mm_20100521102031_series019 (64x64x33x240)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_bold_dc_20100521102031_series018 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_bold_dc_20100521102031_series017 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_bold_dc_20100521102031_series016 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_bold_dc_20100521102031_series015 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_psf_20100521102031_series014 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_psf_20100521102031_series013 (64x64x23x7)
+Convert 176 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_t1_mpr_siemens_PAT(best)_20100521102031_series012 (256x256x176x1)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_psf_20100521102031_series011 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_psf_20100521102031_series010 (64x64x23x7)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_bold_dc_20100521102031_series009 (64x64x23x400)
+slices stacked despite varying acquisition numbers (if this is not desired recompile with 'mySegmentByAcq')
+Convert 400 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_bold_dc_20100521102031_series008 (64x64x23x400)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_psf_20100521102031_series007 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_psf_20100521102031_series006 (64x64x23x7)
+Convert 4 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_psf_20100521102031_series005 (64x64x23x4)
+Convert 7 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_mz_ep2d_psf_20100521102031_series004 (64x64x23x7)
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_circle_localizer_20100521102031_series003_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_circle_localizer_20100521102031_series003_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_circle_localizer_20100521102031_series003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+slices not stacked: orientation varies (vNav or localizer?) [1 0 0 0 1 0] != [1 0 0 0 0 -1]
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_circle_localizer_20100521102031_series002_i00002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Warning: Weird CSA 'ProtocolSliceNumber' (System/Miscellaneous/ImageNumbering reversed): VALIDATE SLICETIMING AND BVECS
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_circle_localizer_20100521102031_series002_i00003 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_circle_localizer_20100521102031_series002 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Convert 1 DICOM as /media/vandejjf/WDMyBook_Jasper/caos/BIDS/tmp_dcm2bids/sub-21/AS_circle_localizer_20100521102031_series001 (256x256x1x1)
+Warning: Check that 2D images are not mirrored.
+Conversion required 103.769017 seconds (51.406933 for core code).
+
+'DD_mz_ep2d_bold_dc_20100518110656_series004.json' satisfies one description
+'DD_mz_ep2d_bold_dc_20100518110656_series005.json' satisfies no description
+'DD_mz_ep2d_bold_dc_20100518110656_series008.json' satisfies one description
+'DD_mz_ep2d_bold_dc_20100518110656_series009.json' satisfies no description
+'DD_mz_ep2d_bold_dc_20100518110656_series013.json' satisfies one description
+'DD_mz_ep2d_bold_dc_20100518110656_series014.json' satisfies no description
+'DD_mz_ep2d_psf_20100518110656_series002.json' satisfies no description
+'DD_mz_ep2d_psf_20100518110656_series003.json' satisfies no description
+'DD_mz_ep2d_psf_20100518110656_series006.json' satisfies no description
+'DD_mz_ep2d_psf_20100518110656_series007.json' satisfies no description
+'DD_mz_ep2d_psf_20100518110656_series011.json' satisfies no description
+'DD_mz_ep2d_psf_20100518110656_series012.json' satisfies no description
+'DD_t1_mpr_siemens_PAT(best)_20100518110656_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 19
+##########
+
+
+'CS_bic_epi_v1_3mm_20100625130018_series017.json' satisfies one description
+'CS_circle_localizer_20100625130018_series001_i00001.json' satisfies no description
+'CS_circle_localizer_20100625130018_series001_i00002.json' satisfies no description
+'CS_circle_localizer_20100625130018_series001_i00003.json' satisfies no description
+'CS_mz_ep2d_bold_dc_20100625130018_series004.json' satisfies one description
+'CS_mz_ep2d_bold_dc_20100625130018_series005.json' satisfies no description
+'CS_mz_ep2d_bold_dc_20100625130018_series008.json' satisfies one description
+'CS_mz_ep2d_bold_dc_20100625130018_series009.json' satisfies no description
+'CS_mz_ep2d_bold_dc_20100625130018_series013.json' satisfies one description
+'CS_mz_ep2d_bold_dc_20100625130018_series014.json' satisfies no description
+'CS_mz_ep2d_psf_20100625130018_series002.json' satisfies no description
+'CS_mz_ep2d_psf_20100625130018_series003.json' satisfies no description
+'CS_mz_ep2d_psf_20100625130018_series006.json' satisfies no description
+'CS_mz_ep2d_psf_20100625130018_series007.json' satisfies no description
+'CS_mz_ep2d_psf_20100625130018_series011.json' satisfies no description
+'CS_mz_ep2d_psf_20100625130018_series012.json' satisfies no description
+'CS_mz_ep2d_psf_20100625130018_series015.json' satisfies no description
+'CS_mz_ep2d_psf_20100625130018_series016.json' satisfies no description
+'CS_t1_mpr_siemens_PAT(best)_20100625130018_series010.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 20
+##########
+
+
+'CA_bic_epi_v1_3mm_20100507121114_series008.json' satisfies one description
+'CA_circle_localizer_20100507121114_series001_i00001.json' satisfies no description
+'CA_circle_localizer_20100507121114_series001_i00002.json' satisfies no description
+'CA_circle_localizer_20100507121114_series001_i00003.json' satisfies no description
+'CA_circle_localizer_20100507121114_series002.json' satisfies no description
+'CA_circle_localizer_20100507121114_series002_i00002.json' satisfies no description
+'CA_circle_localizer_20100507121114_series002_i00003.json' satisfies no description
+'CA_circle_localizer_20100507121114_series003.json' satisfies no description
+'CA_circle_localizer_20100507121114_series003_i00002.json' satisfies no description
+'CA_circle_localizer_20100507121114_series003_i00003.json' satisfies no description
+'CA_mz_ep2d_bold_dc_20100507121114_series006.json' satisfies one description
+'CA_mz_ep2d_bold_dc_20100507121114_series007.json' satisfies no description
+'CA_mz_ep2d_bold_dc_20100507121114_series011.json' satisfies one description
+'CA_mz_ep2d_bold_dc_20100507121114_series012.json' satisfies no description
+'CA_mz_ep2d_bold_dc_20100507121114_series016.json' satisfies one description
+'CA_mz_ep2d_bold_dc_20100507121114_series017.json' satisfies no description
+'CA_mz_ep2d_psf_20100507121114_series004.json' satisfies no description
+'CA_mz_ep2d_psf_20100507121114_series005.json' satisfies no description
+'CA_mz_ep2d_psf_20100507121114_series009.json' satisfies no description
+'CA_mz_ep2d_psf_20100507121114_series010.json' satisfies no description
+'CA_mz_ep2d_psf_20100507121114_series014.json' satisfies no description
+'CA_mz_ep2d_psf_20100507121114_series015.json' satisfies no description
+'CA_t1_mpr_siemens_PAT(best)_20100507121114_series013.json' satisfies one description
+'task-exp_bold': has several runs
+
+
+
+
+##########
+Subject 21
+##########
+
+
+'AS_bic_epi_v1_3mm_20100521102031_series019.json' satisfies one description
+'AS_circle_localizer_20100521102031_series001.json' satisfies no description
+'AS_circle_localizer_20100521102031_series002.json' satisfies no description
+'AS_circle_localizer_20100521102031_series002_i00002.json' satisfies no description
+'AS_circle_localizer_20100521102031_series002_i00003.json' satisfies no description
+'AS_circle_localizer_20100521102031_series003.json' satisfies no description
+'AS_circle_localizer_20100521102031_series003_i00002.json' satisfies no description
+'AS_circle_localizer_20100521102031_series003_i00003.json' satisfies no description
+'AS_mz_ep2d_bold_dc_20100521102031_series008.json' satisfies one description
+'AS_mz_ep2d_bold_dc_20100521102031_series009.json' satisfies no description
+'AS_mz_ep2d_bold_dc_20100521102031_series015.json' satisfies one description
+'AS_mz_ep2d_bold_dc_20100521102031_series016.json' satisfies no description
+'AS_mz_ep2d_bold_dc_20100521102031_series017.json' satisfies one description
+'AS_mz_ep2d_bold_dc_20100521102031_series018.json' satisfies no description
+'AS_mz_ep2d_psf_20100521102031_series004.json' satisfies no description
+'AS_mz_ep2d_psf_20100521102031_series005.json' satisfies no description
+'AS_mz_ep2d_psf_20100521102031_series006.json' satisfies no description
+'AS_mz_ep2d_psf_20100521102031_series007.json' satisfies no description
+'AS_mz_ep2d_psf_20100521102031_series010.json' satisfies no description
+'AS_mz_ep2d_psf_20100521102031_series011.json' satisfies no description
+'AS_mz_ep2d_psf_20100521102031_series013.json' satisfies no description
+'AS_mz_ep2d_psf_20100521102031_series014.json' satisfies no description
+'AS_t1_mpr_siemens_PAT(best)_20100521102031_series012.json' satisfies one description
+'task-exp_bold': has several runs
+
