@@ -24,7 +24,7 @@ module load bear-apps/2018a
 module load Singularity/2.5.1-GCC-6.4.0-2.28
 
 # Run fmriprep for one participant
-./fmriprep.sh ${SLURM_ARRAY_TASK_ID}
+./caos.fmriprep.sh ${SLURM_ARRAY_TASK_ID}
 
 # Remove temporary data in working directory
 ls ${BB_WORKDIR}
