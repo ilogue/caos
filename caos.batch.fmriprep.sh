@@ -23,6 +23,10 @@ module load bluebear
 module load bear-apps/2018a
 module load Singularity/2.5.1-GCC-6.4.0-2.28
 
+# print space on /scratch
+df -h /scratch
+# sleep 1-320 seconds
+sleep $[ ( $RANDOM / 100 )  + 1 ]s
 # Run fmriprep for one participant
 ./caos.fmriprep.sh ${SLURM_ARRAY_TASK_ID}
 
