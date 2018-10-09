@@ -1,9 +1,9 @@
 #!/bin/bash
-#SBATCH --array 1-20
+#SBATCH --array 1-21
 #SBATCH --nodes 1
 #SBATCH --ntasks 4
 #SBATCH --mem 32G
-#SBATCH --time 08:00:00
+#SBATCH --time 16:00:00
 #SBATCH --qos bbdefault
 #SBATCH --mail-type ALL
 
