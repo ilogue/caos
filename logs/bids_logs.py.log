@@ -1,0 +1,528 @@
+## In [30]: %run bids_logs.py                                                                                                                                                             
+
+
+Subject 1 (SG)
+	4 log files.
+		Logfile created 2010-05-21 12:15:12
+		Logfile created 2010-05-21 11:39:02
+		Logfile created 2010-05-21 12:04:39
+		Logfile created 2010-05-21 11:48:19
+	4 fmr files.
+		Fmr created 2010-05-21 11:56:02, size 39.0MB
+		Fmr created 2010-05-21 11:39:45, size 39.0MB
+		Fmr created 2010-05-21 12:06:56, size 34.9MB
+		Fmr created 2010-05-21 11:30:33, size 38.9MB
+
+	match 1 of 4:
+		sub-1_task-exp_run-01_bold.json
+		SG_exp1-exp1.log
+	match 2 of 4:
+		sub-1_task-exp_run-02_bold.json
+		SG_exp2-exp2.log
+	match 3 of 4:
+		sub-1_task-exp_run-03_bold.json
+		SG_exp3-exp3.log
+	match 4 of 4:
+		sub-1_task-loc_bold.json
+		SG_localizer-LOC-localizer1.log
+
+
+Subject 2 (SE)
+	4 log files.
+		Logfile created 2010-05-11 15:39:51
+		Logfile created 2010-05-11 15:28:08
+		Logfile created 2010-05-11 15:12:45
+		Logfile created 2010-05-11 15:00:52
+	5 fmr files.
+		Fmr created 2010-05-11 15:03:55, size 44.9MB
+		Fmr created 2010-05-11 15:31:30, size 34.1MB
+		Fmr created 2010-05-11 14:52:01, size 44.7MB
+		(Ignoring fmr created 2010-05-11 15:01:18, size 0.3MB)
+		Fmr created 2010-05-11 15:19:10, size 44.9MB
+
+	match 1 of 4:
+		sub-2_task-exp_run-01_bold.json
+		SE_exp1-exp1.log
+	match 2 of 4:
+		sub-2_task-exp_run-02_bold.json
+		SE_exp2-exp2.log
+	match 3 of 4:
+		sub-2_task-exp_run-03_bold.json
+		SE_exp3-exp3.log
+	match 4 of 4:
+		sub-2_task-loc_run-02_bold.json
+		SE_localizer-LOC-localizer1.log
+
+
+Subject 3 (RL)
+	4 log files.
+		Logfile created 2010-05-18 10:50:38
+		Logfile created 2010-05-18 10:15:17
+		Logfile created 2010-05-18 10:41:09
+		Logfile created 2010-05-18 10:25:28
+	4 fmr files.
+		Fmr created 2010-05-18 10:16:46, size 41.4MB
+		Fmr created 2010-05-18 10:32:25, size 41.5MB
+		Fmr created 2010-05-18 10:42:24, size 32.4MB
+		Fmr created 2010-05-18 10:07:01, size 41.3MB
+
+	match 1 of 4:
+		sub-3_task-exp_run-01_bold.json
+		RL_exp1-exp1.log
+	match 2 of 4:
+		sub-3_task-exp_run-02_bold.json
+		RL_exp2-exp2.log
+	match 3 of 4:
+		sub-3_task-exp_run-03_bold.json
+		RL_exp3-exp3.log
+	match 4 of 4:
+		sub-3_task-loc_bold.json
+		RL_localizer-LOC-localizer1.log
+
+
+Subject 4 (PF)
+	4 log files.
+		Logfile created 2010-07-01 13:03:50
+		Logfile created 2010-07-01 12:55:08
+		Logfile created 2010-07-01 12:39:04
+		Logfile created 2010-07-01 12:29:06
+	4 fmr files.
+		Fmr created 2010-07-01 12:20:38, size 41.1MB
+		Fmr created 2010-07-01 12:55:29, size 37.0MB
+		Fmr created 2010-07-01 12:30:20, size 41.1MB
+		Fmr created 2010-07-01 12:46:04, size 41.2MB
+
+	match 1 of 4:
+		sub-4_task-exp_run-01_bold.json
+		PF1-exp1.log
+	match 2 of 4:
+		sub-4_task-exp_run-02_bold.json
+		PF2-exp2.log
+	match 3 of 4:
+		sub-4_task-exp_run-03_bold.json
+		PF3-exp3.log
+	match 4 of 4:
+		sub-4_task-loc_bold.json
+		PF_localizer-LOC-localizer1.log
+
+
+Subject 5 (NS)
+	4 log files.
+		Logfile created 2010-05-25 13:17:22
+		Logfile created 2010-05-25 12:54:00
+		Logfile created 2010-05-25 13:09:03
+		Logfile created 2010-05-25 12:44:53
+	4 fmr files.
+		Fmr created 2010-05-25 13:00:22, size 43.7MB
+		Fmr created 2010-05-25 12:45:22, size 43.6MB
+		Fmr created 2010-05-25 12:36:21, size 43.7MB
+		Fmr created 2010-05-25 13:09:07, size 38.8MB
+
+	match 1 of 4:
+		sub-5_task-exp_run-01_bold.json
+		NS_exp-exp1.log
+	match 2 of 4:
+		sub-5_task-exp_run-02_bold.json
+		NS_exp-exp2.log
+	match 3 of 4:
+		sub-5_task-exp_run-03_bold.json
+		NS_exp-exp3.log
+	match 4 of 4:
+		sub-5_task-loc_bold.json
+		NS_loc-LOC-localizer1.log
+
+
+Subject 6 (MN)
+	3 log files.
+		Logfile created 2010-05-07 11:43:11
+		Logfile created 2010-05-07 11:26:45
+		Logfile created 2010-05-07 11:15:50
+	5 fmr files.
+		(Ignoring fmr created 2010-05-07 11:06:17, size 0.1MB)
+		Fmr created 2010-05-07 11:18:01, size 45.5MB
+		Fmr created 2010-05-07 10:54:48, size 2.8MB
+		Fmr created 2010-05-07 11:07:08, size 45.4MB
+		Fmr created 2010-05-07 11:34:26, size 45.6MB
+
+	match 1 of 4:
+		sub-6_task-exp_run-01_bold.json
+		MN1b-exp1.log
+	match 2 of 4:
+		sub-6_task-exp_run-03_bold.json
+		MN1b-exp1.log
+	match 3 of 4:
+		sub-6_task-exp_run-04_bold.json
+		MN2b-exp2.log
+	match 4 of 4:
+		sub-6_task-exp_run-05_bold.json
+		MN3b-exp1.log
+
+
+Subject 7 (MM)
+	4 log files.
+		Logfile created 2010-06-27 12:44:53
+		Logfile created 2010-06-27 12:36:17
+		Logfile created 2010-06-27 12:12:10
+		Logfile created 2010-06-27 12:21:38
+	5 fmr files.
+		Fmr created 2010-06-27 12:36:32, size 38.6MB
+		Fmr created 2010-06-27 12:03:29, size 43.5MB
+		Fmr created 2010-06-27 11:32:52, size 36.3MB
+		Fmr created 2010-06-27 12:12:52, size 43.6MB
+		Fmr created 2010-06-27 12:27:30, size 43.6MB
+
+	match 1 of 5:
+		sub-7_task-exp_run-01_bold.json
+		MMexp1-exp1.log
+	match 2 of 5:
+		sub-7_task-exp_run-02_bold.json
+		MMexp1-exp1.log
+	match 3 of 5:
+		sub-7_task-exp_run-03_bold.json
+		MMexp2-exp2.log
+	match 4 of 5:
+		sub-7_task-exp_run-04_bold.json
+		MMexp3-exp3.log
+	match 5 of 5:
+		sub-7_task-loc_bold.json
+		MM_LOC-localizer1.log
+
+
+Subject 8 (MH)
+	4 log files.
+		Logfile created 2010-06-27 11:16:39
+		Logfile created 2010-06-27 10:51:57
+		Logfile created 2010-06-27 10:41:18
+		Logfile created 2010-06-27 11:07:32
+	4 fmr files.
+		Fmr created 2010-06-27 10:58:40, size 41.5MB
+		Fmr created 2010-06-27 11:08:17, size 36.5MB
+		Fmr created 2010-06-27 10:43:23, size 41.4MB
+		Fmr created 2010-06-27 10:32:34, size 41.2MB
+
+	match 1 of 4:
+		sub-8_task-exp_run-01_bold.json
+		MH1-exp1.log
+	match 2 of 4:
+		sub-8_task-exp_run-02_bold.json
+		MH2-exp2.log
+	match 3 of 4:
+		sub-8_task-exp_run-03_bold.json
+		MH3-exp3.log
+	match 4 of 4:
+		sub-8_task-loc_bold.json
+		MH_LOC-localizer1.log
+
+
+Subject 9 (MD)
+	4 log files.
+		Logfile created 2010-05-18 13:18:31
+		Logfile created 2010-05-18 13:09:22
+		Logfile created 2010-05-18 12:45:20
+		Logfile created 2010-05-18 12:54:25
+	4 fmr files.
+		Fmr created 2010-05-18 13:00:26, size 40.5MB
+		Fmr created 2010-05-18 12:36:26, size 40.3MB
+		Fmr created 2010-05-18 12:45:36, size 40.4MB
+		Fmr created 2010-05-18 13:10:17, size 31.8MB
+
+	match 1 of 4:
+		sub-9_task-exp_run-01_bold.json
+		MD_exp1-exp1.log
+	match 2 of 4:
+		sub-9_task-exp_run-02_bold.json
+		MD_exp2-exp2.log
+	match 3 of 4:
+		sub-9_task-exp_run-03_bold.json
+		MD_exp3-exp3.log
+	match 4 of 4:
+		sub-9_task-loc_bold.json
+		MD_localizer-LOC-localizer1.log
+
+
+Subject 10 (LS)
+	4 log files.
+		Logfile created 2010-05-11 14:06:11
+		Logfile created 2010-05-11 13:29:55
+		Logfile created 2010-05-11 13:41:23
+		Logfile created 2010-05-11 13:56:51
+	4 fmr files.
+		Fmr created 2010-05-11 13:48:05, size 42.2MB
+		Fmr created 2010-05-11 13:32:45, size 42.1MB
+		Fmr created 2010-05-11 13:21:25, size 42.0MB
+		Fmr created 2010-05-11 13:57:56, size 32.2MB
+
+	match 1 of 4:
+		sub-10_task-exp_run-01_bold.json
+		LS_exp1-exp1.log
+	match 2 of 4:
+		sub-10_task-exp_run-02_bold.json
+		LS_exp2-exp2.log
+	match 3 of 4:
+		sub-10_task-exp_run-03_bold.json
+		LS_exp3-exp3.log
+	match 4 of 4:
+		sub-10_task-loc_bold.json
+		LS_localizer-LOC-localizer1.log
+
+
+Subject 11 (LG)
+	4 log files.
+		Logfile created 2010-05-25 12:14:36
+		Logfile created 2010-05-25 11:50:11
+		Logfile created 2010-05-25 11:40:23
+		Logfile created 2010-05-25 12:05:28
+	4 fmr files.
+		Fmr created 2010-05-25 11:31:40, size 41.3MB
+		Fmr created 2010-05-25 11:56:31, size 40.8MB
+		Fmr created 2010-05-25 12:06:20, size 35.3MB
+		Fmr created 2010-05-25 11:41:40, size 41.2MB
+
+	match 1 of 4:
+		sub-11_task-exp_run-01_bold.json
+		LG_exp-exp1.log
+	match 2 of 4:
+		sub-11_task-exp_run-02_bold.json
+		LG_exp-exp2.log
+	match 3 of 4:
+		sub-11_task-exp_run-03_bold.json
+		LG_exp-exp3.log
+	match 4 of 4:
+		sub-11_task-loc_bold.json
+		LG_loc-LOC-localizer1.log
+
+
+Subject 12 (KV)
+	4 log files.
+		Logfile created 2010-05-14 11:43:27
+		Logfile created 2010-05-14 11:08:27
+		Logfile created 2010-05-14 11:19:32
+		Logfile created 2010-05-14 11:34:11
+	1 fmr files.
+		Fmr created 2010-05-14 11:35:12, size 32.3MB
+
+	match 1 of 1:
+		sub-12_task-loc_bold.json
+		KV_localizer-LOC-localizer1.log
+
+
+Subject 13 (KD)
+	4 log files.
+		Logfile created 2010-05-25 11:09:55
+		Logfile created 2010-05-25 10:45:46
+		Logfile created 2010-05-25 11:01:13
+		Logfile created 2010-05-25 10:35:20
+	4 fmr files.
+		Fmr created 2010-05-25 10:26:45, size 44.5MB
+		Fmr created 2010-05-25 10:52:16, size 44.7MB
+		Fmr created 2010-05-25 10:37:17, size 44.6MB
+		Fmr created 2010-05-25 11:01:37, size 39.8MB
+
+	match 1 of 4:
+		sub-13_task-exp_run-01_bold.json
+		KD_1-exp1.log
+	match 2 of 4:
+		sub-13_task-exp_run-02_bold.json
+		KD_1-exp2.log
+	match 3 of 4:
+		sub-13_task-exp_run-03_bold.json
+		KD_1-exp3.log
+	match 4 of 4:
+		sub-13_task-loc_bold.json
+		KD_LOC-LOC-localizer1.log
+
+
+Subject 14 (JD)
+	4 log files.
+		Logfile created 2010-07-01 11:45:44
+		Logfile created 2010-07-01 11:21:14
+		Logfile created 2010-07-01 11:36:59
+		Logfile created 2010-07-01 11:11:24
+	4 fmr files.
+		Fmr created 2010-07-01 11:02:24, size 42.4MB
+		Fmr created 2010-07-01 11:28:01, size 42.6MB
+		Fmr created 2010-07-01 11:12:34, size 42.5MB
+		Fmr created 2010-07-01 11:37:21, size 37.9MB
+
+	match 1 of 4:
+		sub-14_task-exp_run-01_bold.json
+		JD-exp1.log
+	match 2 of 4:
+		sub-14_task-exp_run-02_bold.json
+		JD2-exp2.log
+	match 3 of 4:
+		sub-14_task-exp_run-03_bold.json
+		JD3-exp3.log
+	match 4 of 4:
+		sub-14_task-loc_bold.json
+		JD_localizer-LOC-localizer1.log
+
+
+Subject 15 (JB)
+	4 log files.
+		Logfile created 2010-05-14 13:19:19
+		Logfile created 2010-05-14 12:52:56
+		Logfile created 2010-05-14 13:09:13
+		Logfile created 2010-05-14 12:43:25
+	4 fmr files.
+		Fmr created 2010-05-14 13:00:41, size 40.8MB
+		Fmr created 2010-05-14 13:11:05, size 32.1MB
+		Fmr created 2010-05-14 12:44:18, size 40.8MB
+		Fmr created 2010-05-14 12:35:06, size 40.6MB
+
+	match 1 of 4:
+		sub-15_task-exp_run-01_bold.json
+		JB_exp1-exp1.log
+	match 2 of 4:
+		sub-15_task-exp_run-02_bold.json
+		JB_exp2-exp2.log
+	match 3 of 4:
+		sub-15_task-exp_run-03_bold.json
+		JB_exp3-exp3.log
+	match 4 of 4:
+		sub-15_task-loc_bold.json
+		JB_localizer-LOC-localizer1.log
+
+
+Subject 16 (FL)
+	4 log files.
+		Logfile created 2010-05-21 13:13:37
+		Logfile created 2010-05-21 13:04:59
+		Logfile created 2010-05-21 12:50:06
+		Logfile created 2010-05-21 12:38:16
+	4 fmr files.
+		Fmr created 2010-05-21 12:41:38, size 40.8MB
+		Fmr created 2010-05-21 13:05:21, size 36.0MB
+		Fmr created 2010-05-21 12:56:23, size 40.8MB
+		Fmr created 2010-05-21 12:29:31, size 40.7MB
+
+	match 1 of 4:
+		sub-16_task-exp_run-01_bold.json
+		FL_exp1-exp1.log
+	match 2 of 4:
+		sub-16_task-exp_run-02_bold.json
+		FL_exp2-exp2.log
+	match 3 of 4:
+		sub-16_task-exp_run-03_bold.json
+		FL_exp3-exp3.log
+	match 4 of 4:
+		sub-16_task-loc_bold.json
+		FL_localizer-LOC-localizer1.log
+
+
+Subject 17 (EW)
+	4 log files.
+		Logfile created 2010-05-11 16:43:51
+		Logfile created 2010-05-11 16:09:46
+		Logfile created 2010-05-11 16:35:27
+		Logfile created 2010-05-11 16:19:18
+	1 fmr files.
+		Fmr created 2010-05-11 16:35:34, size 32.2MB
+
+	match 1 of 1:
+		sub-17_task-loc_bold.json
+		EW_localizer-LOC-localizer1.log
+
+
+Subject 18 (DD)
+	4 log files.
+		Logfile created 2010-05-18 11:55:04
+		Logfile created 2010-05-18 11:20:49
+		Logfile created 2010-05-18 11:30:13
+		Logfile created 2010-05-18 11:45:58
+	4 fmr files.
+		Fmr created 2010-05-18 11:46:50, size 36.7MB
+		Fmr created 2010-05-18 11:12:06, size 40.6MB
+		Fmr created 2010-05-18 11:21:35, size 40.7MB
+		Fmr created 2010-05-18 11:37:21, size 40.8MB
+
+	match 1 of 4:
+		sub-18_task-exp_run-01_bold.json
+		DD_exp1-exp1.log
+	match 2 of 4:
+		sub-18_task-exp_run-02_bold.json
+		DD_exp2-exp2.log
+	match 3 of 4:
+		sub-18_task-exp_run-03_bold.json
+		DD_exp3-exp3.log
+	match 4 of 4:
+		sub-18_task-loc_bold.json
+		DD_localizer-LOC-localizer1.log
+
+
+Subject 19 (CS)
+	4 log files.
+		Logfile created 2010-06-27 14:06:29
+		Logfile created 2010-06-27 13:29:14
+		Logfile created 2010-06-27 13:19:56
+		Logfile created 2010-06-27 13:46:50
+	4 fmr files.
+		Fmr created 2010-06-27 13:58:18, size 36.3MB
+		Fmr created 2010-06-27 13:20:21, size 41.7MB
+		Fmr created 2010-06-27 13:35:29, size 38.2MB
+		Fmr created 2010-06-27 13:11:08, size 41.6MB
+
+	match 1 of 4:
+		sub-19_task-exp_run-01_bold.json
+		CSexp1-exp1.log
+	match 2 of 4:
+		sub-19_task-exp_run-02_bold.json
+		CSexp2-exp2.log
+	match 3 of 4:
+		sub-19_task-exp_run-03_bold.json
+		CSexp3-exp3.log
+	match 4 of 4:
+		sub-19_task-loc_bold.json
+		CS_LOC-localizer1.log
+
+
+Subject 20 (CA)
+	4 log files.
+		Logfile created 2010-05-07 12:43:11
+		Logfile created 2010-05-07 12:53:37
+		Logfile created 2010-05-07 13:09:29
+		Logfile created 2010-05-07 12:33:13
+	4 fmr files.
+		Fmr created 2010-05-07 12:45:09, size 45.4MB
+		Fmr created 2010-05-07 12:35:01, size 40.2MB
+		Fmr created 2010-05-07 12:24:31, size 45.2MB
+		Fmr created 2010-05-07 13:00:23, size 45.4MB
+
+	match 1 of 4:
+		sub-20_task-exp_run-01_bold.json
+		CA1-exp1.log
+	match 2 of 4:
+		sub-20_task-loc_bold.json
+		CA_localizer-LOC-localizer1.log
+	match 3 of 4:
+		sub-20_task-exp_run-02_bold.json
+		CA-2-exp2.log
+	match 4 of 4:
+		sub-20_task-exp_run-03_bold.json
+		CA-3-exp3.log
+
+
+Subject 21 (AS)
+	4 log files.
+		Logfile created 2010-05-21 11:15:38
+		Logfile created 2010-05-21 10:40:14
+		Logfile created 2010-05-21 11:06:45
+		Logfile created 2010-05-21 10:57:37
+	4 fmr files.
+		Fmr created 2010-05-21 11:07:20, size 36.2MB
+		Fmr created 2010-05-21 10:49:05, size 40.7MB
+		Fmr created 2010-05-21 10:31:50, size 40.5MB
+		Fmr created 2010-05-21 10:57:59, size 40.8MB
+
+	match 1 of 4:
+		sub-21_task-exp_run-01_bold.json
+		AS_exp1-exp1.log
+	match 2 of 4:
+		sub-21_task-exp_run-02_bold.json
+		AS_exp2-exp2.log
+	match 3 of 4:
+		sub-21_task-exp_run-03_bold.json
+		AS_exp3-exp3.log
+	match 4 of 4:
+		sub-21_task-loc_bold.json
+		AS_localizer-LOC-localizer1.log
