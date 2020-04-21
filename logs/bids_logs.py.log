@@ -1,3 +1,8 @@
+""
+"" sub-7_task-exp_run-01_bold.json no corresponding log file, probably not logged.
+""
+
+
 %run bids_logs.py                                                                                                                                                              
 
 

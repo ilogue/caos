@@ -65,3 +65,7 @@ for old_id, sub in subject_ids.items():
         log_fname = basename(matched_log.fpath)
         print(f'\tmatch {r} of {len(sub_fmr_runs_valid)}:\n\t\t{fmr_fname}\n\t\t{log_fname}')
 
+        fpath_evt = fmr_run['fpath'].replace('_bold.json', '_events.tsv')
+        # generate events
+        # store events
+
