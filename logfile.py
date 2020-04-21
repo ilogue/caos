@@ -29,10 +29,15 @@ class PresentationLogfile(object):
         for l, line in enumerate(self.lines):
             if len(line) < 3:
                 empty_line_idx.append(l)
-        end_of_table = empty_line_idx[2] ## 0-based index of first blank line
+        if len(empty_line_idx) > 2:
+            ## two tables in file
+            end_of_table = empty_line_idx[2] ## 0-based index of first blank line
+        else:
+            ## one table in file
+            end_of_table = len(self.lines)
         return pandas.read_csv(
             self.fpath,
-            engine=python,          ## c engine doesnt support regex seperators
+            engine='python',          ## c engine doesnt support regex seperators
             skip_blank_lines=True,
             sep='\t| ',             ## either space or tab
             header=2,               ## blank lines already skipped
