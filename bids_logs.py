@@ -8,6 +8,7 @@ from os.path import join, expanduser, basename, isdir, getsize
 from subject_ids import subject_ids
 from logfile import PresentationLogfile
 
+FMR_MIN_MB = 5
 root = expanduser('~/Data/caos')
 bidsdir = join(root, 'BIDS')
 
@@ -24,29 +25,36 @@ for old_id, sub in subject_ids.items():
 
     sub_log_fpaths = list(filter(lambda f: basename(f)[:2] == old_id, all_logfiles))
     sub_logs = []
-    print(f'\t{len(sub_log_fpaths)} log files.')
+    
     for fpath in sub_log_fpaths:
         logfile = PresentationLogfile(fpath)
         logfile.read()
         sub_logs.append(logfile)
-        print(f'\t\tLogfile created {logfile.created}')
+    sub_logs = sorted(sub_logs, key=lambda r: r.created)
+
+    print(f'\t{len(sub_logs)} log files.')
+    for log in sub_logs:
+        log_fname = basename(log.fpath)
+        print(f'\t\tstored {log.created}: {log_fname}')
 
     sub_fmrfiles = glob.glob(join(bidsdir, f'sub-{sub}', 'func', '*_bold.json'))
-    print(f'\t{len(sub_fmrfiles)} fmr files.')
+    
     sub_fmr_runs_valid = []
     for fpath in sub_fmrfiles:
         with open(fpath) as fhandle:
             fmr_meta = json.load(fhandle)
         aq_time = datetime.datetime.strptime(fmr_meta['AcquisitionTime'], '%H:%M:%S.%f')
-        ## assume fmr recorded on date stamped in logfile:
+        ## assume fmr recorded on the date stamped in logfile:
         aq_time = datetime.datetime.combine(logfile.created, aq_time.time()).replace(microsecond=0)
         size_mb = getsize(fpath.replace('.json', '.nii.gz')) / (1024 * 1024)
-        if size_mb > 1:
-            print(f'\t\tFmr created {aq_time}, size {size_mb:.1f}MB')
-            sub_fmr_runs_valid.append(dict(fpath=fpath, aq_time=aq_time))
-        else:
-            print(f'\t\t(Ignoring fmr created {aq_time}, size {size_mb:.1f}MB)')
+        if size_mb > FMR_MIN_MB:
+            sub_fmr_runs_valid.append(dict(fpath=fpath, aq_time=aq_time, size_mb=size_mb))
     sub_fmr_runs_valid = sorted(sub_fmr_runs_valid, key=lambda r: r['aq_time'])
+
+    print(f'\t{len(sub_fmr_runs_valid)} fmr files larger than {FMR_MIN_MB}mb.')
+    for fmr_run in sub_fmr_runs_valid:
+        fmr_fname = basename(fmr_run['fpath'])
+        print(f'\t\tstarted {fmr_run["aq_time"]}, size {fmr_run["size_mb"]:.1f}MB: {fmr_fname}')
 
     print('')
     for r, fmr_run in enumerate(sub_fmr_runs_valid, start=1):
@@ -57,6 +65,3 @@ for old_id, sub in subject_ids.items():
         log_fname = basename(matched_log.fpath)
         print(f'\tmatch {r} of {len(sub_fmr_runs_valid)}:\n\t\t{fmr_fname}\n\t\t{log_fname}')
 
-
-# def nearest(items, pivot):
-#     return min(items, key=lambda x: abs(x - pivot))
