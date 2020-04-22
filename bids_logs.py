@@ -9,6 +9,7 @@ from subject_ids import subject_ids
 from logfile import PresentationLogfile
 
 FMR_MIN_MB = 5  ## ignore BOLD files smaller than this
+## had a look and sound duration varies, 0.5-0.8
 STIM_DUR = 0.5  ## sound duration for events file in sec, guessing for now
 root = expanduser('~/Data/caos')
 bidsdir = join(root, 'BIDS')
@@ -75,12 +76,19 @@ for old_id, sub in subject_ids.items():
         print(t0)
         if log.scenario == 'CAOS_main':
             assert 'task-exp' in fpath_evt, 'presentation scenario and BIDS task name dont match'
-            pass
+            df = df[df.Event_Type == 'Sound']
         elif log.scenario == 'LOC-localizer_1':
             assert 'task-loc' in fpath_evt, 'presentation scenario and BIDS task name dont match'
-            pass
+            df = df[df.Event_Type == 'Picture']
+            df = df[~(df.Code == 'fixation_cross')]
         else:
             print(f'Unknown scenario: {log.scenario}')
 
+        # _1 object
+        # _2 object_scrambled
+        # _3 shape
+        # _4 shape scrambled
+        # new = old[['A', 'C', 'D']].copy()
+        # entity column
         # onset, duration, trial_type, stim_file
 
