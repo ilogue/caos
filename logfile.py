@@ -20,6 +20,9 @@ class PresentationLogfile(object):
     def to_dataframe(self):
         """Return the events from the logfile as a pandas DataFrame
 
+        - Find the end of the first table in the file
+        - Preprocesses any unexpected whitespace
+
         Returns:
             pandas.DataFrame: One row per event with all Neurobs columns
         """

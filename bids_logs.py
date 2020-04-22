@@ -8,7 +8,8 @@ from os.path import join, expanduser, basename, isdir, getsize
 from subject_ids import subject_ids
 from logfile import PresentationLogfile
 
-FMR_MIN_MB = 5
+FMR_MIN_MB = 5  ## ignore BOLD files smaller than this
+STIM_DUR = 0.5  ## sound duration for events file in sec, guessing for now
 root = expanduser('~/Data/caos')
 bidsdir = join(root, 'BIDS')
 
@@ -69,6 +70,8 @@ for old_id, sub in subject_ids.items():
         df = matched_log.to_dataframe()
         ## https://bids-specification.readthedocs.io/en/stable/04-modality-specific-files/05-task-events.html
         ## see "convert_log_to_events.py"
-        # get t0 (first pulse)
+        ## get time of first volume in ms/10
+        t0 = df[df.Event_Type=='Pulse'].iloc[0].Time
+        print(t0)
         # onset, duration, trial_type, stim_file
 
