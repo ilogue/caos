@@ -61,17 +61,26 @@ for old_id, sub in subject_ids.items():
     for r, fmr_run in enumerate(sub_fmr_runs_valid, start=1):
         ## find logfile match for a given run
         ten_mins = datetime.timedelta(minutes=10)
-        matched_log = min(sub_logs, key=lambda log: abs(log.created - fmr_run['aq_time'] - ten_mins))
+        log = min(sub_logs, key=lambda log: abs(log.created - fmr_run['aq_time'] - ten_mins))
         fmr_fname = basename(fmr_run['fpath'])
-        log_fname = basename(matched_log.fpath)
+        log_fname = basename(log.fpath)
         print(f'\tmatch {r} of {len(sub_fmr_runs_valid)}:\n\t\t{fmr_fname}\n\t\t{log_fname}')
 
         fpath_evt = fmr_run['fpath'].replace('_bold.json', '_events.tsv')
-        df = matched_log.to_dataframe()
+        df = log.to_dataframe()
         ## https://bids-specification.readthedocs.io/en/stable/04-modality-specific-files/05-task-events.html
         ## see "convert_log_to_events.py"
         ## get time of first volume in ms/10
         t0 = df[df.Event_Type=='Pulse'].iloc[0].Time
         print(t0)
+        if log.scenario == 'CAOS_main':
+            assert 'task-exp' in fpath_evt, 'presentation scenario and BIDS task name dont match'
+            pass
+        elif log.scenario == 'LOC-localizer_1':
+            assert 'task-loc' in fpath_evt, 'presentation scenario and BIDS task name dont match'
+            pass
+        else:
+            print(f'Unknown scenario: {log.scenario}')
+
         # onset, duration, trial_type, stim_file
 

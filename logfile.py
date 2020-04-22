@@ -15,6 +15,7 @@ class PresentationLogfile(object):
         lines = [l.strip() for l in lines]
         created_string = lines[1][-19:]
         self.created = datetime.strptime(created_string, '%m/%d/%Y %H:%M:%S')
+        self.scenario = lines[0].split()[-1].strip()
         self.lines = lines
 
     def to_dataframe(self):
