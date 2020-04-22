@@ -67,6 +67,8 @@ for old_id, sub in subject_ids.items():
 
         fpath_evt = fmr_run['fpath'].replace('_bold.json', '_events.tsv')
         df = matched_log.to_dataframe()
-        # generate events
-        # store events
+        ## https://bids-specification.readthedocs.io/en/stable/04-modality-specific-files/05-task-events.html
+        ## see "convert_log_to_events.py"
+        # get t0 (first pulse)
+        # onset, duration, trial_type, stim_file
 
