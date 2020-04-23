@@ -1,3 +1,6 @@
+"""Labels I gave to the objects in the localizer task
+"""
+
 localizer_entities = {
     1: 'anvil',
     2: 'apple',
@@ -9,7 +12,7 @@ localizer_entities = {
     8: 'basketball',
     9: 'bear',
     10: 'belt',
-    11: 'billiardball',
+    11: 'billiard_ball',
     12: 'binder',
     13: 'binoculars',
     14: 'bison',

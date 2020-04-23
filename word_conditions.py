@@ -1,7 +1,7 @@
 """Dictionary of all stimulus words with their respective condition
 """
 
-stimuli_conditions = {
+word_conditions = {
     'achtung': 'abstract',
     'ahnung': 'abstract',
     'aspekt': 'abstract',
