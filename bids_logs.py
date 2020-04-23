@@ -2,6 +2,8 @@
 Organize and convert the event log files to BIDS format
 
 Assumes all runs on same day
+
+## https://bids-specification.readthedocs.io/en/stable/04-modality-specific-files/05-task-events.html
 """
 import subprocess, glob, shutil, os, time, json, datetime
 from os.path import join, expanduser, basename, isdir, getsize
@@ -69,26 +71,39 @@ for old_id, sub in subject_ids.items():
 
         fpath_evt = fmr_run['fpath'].replace('_bold.json', '_events.tsv')
         df = log.to_dataframe()
-        ## https://bids-specification.readthedocs.io/en/stable/04-modality-specific-files/05-task-events.html
         ## see "convert_log_to_events.py"
+        events = df[('Event_Type', 'Code', 'Time')].copy()
         ## get time of first volume in ms/10
         t0 = df[df.Event_Type=='Pulse'].iloc[0].Time
-        print(t0)
+        ## onset should be relative to first volume:
+        events.Time = events.Time - t0
+
         if log.scenario == 'CAOS_main':
             assert 'task-exp' in fpath_evt, 'presentation scenario and BIDS task name dont match'
             df = df[df.Event_Type == 'Sound']
+            # task_type = a/c
+            # translate
+            # entity column
+            # stimulus path
+            #join(bidsdir, 'stimuli', 'sounds', xyz)
+            
         elif log.scenario == 'LOC-localizer_1':
             assert 'task-loc' in fpath_evt, 'presentation scenario and BIDS task name dont match'
+            
             df = df[df.Event_Type == 'Picture']
             df = df[~(df.Code == 'fixation_cross')]
+            # task type = 1-4  names
+            # entity name for objects
+            # stimulus path
+            #join(bidsdir, 'stimuli', 'images', xyz)
         else:
             print(f'Unknown scenario: {log.scenario}')
-
+        #events.rename(columns=dict(Time='onset'))
+        #events.to_csv(fpath_evt, sep='\t', index=False, float_format='%.8f')
         # _1 object
         # _2 object_scrambled
         # _3 shape
         # _4 shape scrambled
-        # new = old[['A', 'C', 'D']].copy()
         # entity column
         # onset, duration, trial_type, stim_file
 
