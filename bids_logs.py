@@ -18,6 +18,7 @@ pandas.options.mode.chained_assignment = None
 FMR_MIN_MB = 5  ## ignore BOLD files smaller than this
 ## had a look and sound duration varies, 0.5-0.8
 STIM_DUR = 0.5  ## sound duration for events file in sec, guessing for now
+PIC_DUR = 0.3  ## picture duration for events of localizer in sec, guessing for now
 root = expanduser('~/Data/caos')
 bidsdir = join(root, 'BIDS')
 
@@ -103,8 +104,9 @@ for old_id, sub in subject_ids.items():
             conditions = {1: 'object', 2: 'object_scrambled', 3: 'shape', 4: 'shape_scrambled'}
             df['entity'] = object_index.apply(lambda o: localizer_entities[int(o)])
             df['task_type'] = cond_index.apply(lambda c: conditions[int(c)])
+            df.loc[df.task_type != 'object', 'entity'] = ''
             df['stim_file'] = fname.apply(lambda f: join('stimuli', 'pictures', f))
-            df['duration'] = 3
+            df['duration'] = PIC_DUR
         else:
             print(f'Unknown scenario: {log.scenario}')
         df = df.rename(columns=dict(Time='onset'))
