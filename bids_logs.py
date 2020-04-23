@@ -9,6 +9,11 @@ import subprocess, glob, shutil, os, time, json, datetime
 from os.path import join, expanduser, basename, isdir, getsize
 from subject_ids import subject_ids
 from logfile import PresentationLogfile
+from word_conditions import word_conditions
+from word_translations import word_translations
+from localizer_entities import localizer_entities
+import pandas
+pandas.options.mode.chained_assignment = None
 
 FMR_MIN_MB = 5  ## ignore BOLD files smaller than this
 ## had a look and sound duration varies, 0.5-0.8
@@ -72,38 +77,37 @@ for old_id, sub in subject_ids.items():
         fpath_evt = fmr_run['fpath'].replace('_bold.json', '_events.tsv')
         df = log.to_dataframe()
         ## see "convert_log_to_events.py"
-        events = df[('Event_Type', 'Code', 'Time')].copy()
+        df = df[['Event_Type', 'Code', 'Time']]
         ## get time of first volume in ms/10
         t0 = df[df.Event_Type=='Pulse'].iloc[0].Time
         ## onset should be relative to first volume:
-        events.Time = events.Time - t0
+        df.Time = df.Time - t0
+        df.Time = df.Time / (10*1000)
 
         if log.scenario == 'CAOS_main':
             assert 'task-exp' in fpath_evt, 'presentation scenario and BIDS task name dont match'
             df = df[df.Event_Type == 'Sound']
-            # task_type = a/c
-            # translate
-            # entity column
-            # stimulus path
-            #join(bidsdir, 'stimuli', 'sounds', xyz)
-            
+            fname = df.Code.str.split("\\").str.get(-1)
+            word_german = fname.str.split('.').str.get(0)
+            df['entity'] = word_german.apply(lambda g: word_translations[g])
+            df['task_type'] = word_german.apply(lambda g: word_conditions[g])
+            df['stim_file'] = fname.apply(lambda f: join('stimuli', 'images', f))
+            df['duration'] = STIM_DUR
         elif log.scenario == 'LOC-localizer_1':
             assert 'task-loc' in fpath_evt, 'presentation scenario and BIDS task name dont match'
-            
             df = df[df.Event_Type == 'Picture']
             df = df[~(df.Code == 'fixation_cross')]
-            # task type = 1-4  names
-            # entity name for objects
-            # stimulus path
-            #join(bidsdir, 'stimuli', 'images', xyz)
+            fname = df.Code.str.strip()
+            object_index = fname.str.split('.').str.get(0).str.split('_').str.get(0)
+            cond_index = fname.str.split('.').str.get(0).str.split('_').str.get(1)
+            conditions = {1: 'object', 2: 'object_scrambled', 3: 'shape', 4: 'shape_scrambled'}
+            df['entity'] = object_index.apply(lambda o: localizer_entities[int(o)])
+            df['task_type'] = cond_index.apply(lambda c: conditions[int(c)])
+            df['stim_file'] = fname.apply(lambda f: join('stimuli', 'pictures', f))
+            df['duration'] = 3
         else:
             print(f'Unknown scenario: {log.scenario}')
-        #events.rename(columns=dict(Time='onset'))
-        #events.to_csv(fpath_evt, sep='\t', index=False, float_format='%.8f')
-        # _1 object
-        # _2 object_scrambled
-        # _3 shape
-        # _4 shape scrambled
-        # entity column
-        # onset, duration, trial_type, stim_file
+        df = df.rename(columns=dict(Time='onset'))
+        df = df.drop(['Code', 'Event_Type'], axis=1)
+        df.to_csv(fpath_evt, sep='\t', index=False, float_format='%.3f')
 
