@@ -1,6 +1,6 @@
 from os.path import join, expanduser
 import nibabel, pandas, numpy
-from analysis.glm import make_design, whiten_data
+from analysis.glm import make_design, whiten_data, fit_glm
 
 sub = 1
 run = 1
@@ -13,7 +13,7 @@ fname_bold = f'sub-{sub}_task-exp_run-0{run}_bold_space-{space}_preproc.nii.gz'
 fpath_bold = join(prep_dir, f'sub-{sub}', 'func', fname_bold)
 fpath_evts = join(bids_dir, f'sub-{sub}', 'func', fname_evts)
 
-## reshape data to (volumes x voxels)
+## Load fmri and reshape data to (volumes x voxels)
 img_data = nibabel.load(fpath_bold).get_fdata().astype(numpy.float32)
 n_vols = img_data.shape[-1]
 data = numpy.moveaxis(img_data, -1, 0).reshape([n_vols, -1])
@@ -25,6 +25,10 @@ design = make_design(events, n_vols, tr)
 ## Regress out polynomials
 wdata, wdesign = whiten_data(data, design)
 
-## fit_runs (get betas)
-# make ts from betas
-# make rdm
+## Fit the GLM
+betas = fit_glm(wdata, wdesign)
+
+## normalize betas
+
+
+
