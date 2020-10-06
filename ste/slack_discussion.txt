@@ -10,13 +10,10 @@ The figure shows what these look like (if each is normalized to peak at 1).
 figure.png 
 figure.png
 
-
-
 3:47
 2 files 
 example.m
 hrfparams.mat
-
 
 3:48
 At some point I will release these materials as part of the NSD data release.  
@@ -26,7 +23,6 @@ The idea, then, is that you can fit a GLM using each of the 20 impulse responses
 (doing the convolution with the length of your stimulus duration) and then for each voxel, 
 simply use the GLM results from the model that fit that voxel the best.
 See what you think and I can discuss more about the details
-
 Perhaps the hardest/trickiest part is knowing whether or not it did a good thing to your data...  
 but that's a separate topic...
 
@@ -35,4 +31,5 @@ ok, and you would then run 20 calls to GLMdenoise one for each, and then for a v
 we'll look into it and let you know if we have questions..
 
 Kendrick Kay  3:54 PM
-Right, that could be a fine approach.  (Pick the GLM with the highest R2 and then for that GLM assign the betas from that model to that voxel.)
+Right, that could be a fine approach.  (Pick the GLM with the highest R2 and then for that GLM assign the betas 
+from that model to that voxel.)
