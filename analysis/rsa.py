@@ -1,6 +1,6 @@
 from os.path import join, expanduser
 import nibabel, pandas, numpy
-from analysis.glm import make_design
+from analysis.glm import make_design, whiten_data
 
 sub = 1
 run = 1
@@ -20,9 +20,11 @@ data = numpy.moveaxis(img_data, -1, 0).reshape([n_vols, -1])
 
 ## Load events from file and convolve with HRF
 events = pandas.read_csv(fpath_evts, sep='\t')
-conv_design = make_design(events, n_vols, tr)
+design = make_design(events, n_vols, tr)
 
-# whiten_data
-# fit_runs (get betas)
+## Regress out polynomials
+wdata, wdesign = whiten_data(data, design)
+
+## fit_runs (get betas)
 # make ts from betas
 # make rdm
