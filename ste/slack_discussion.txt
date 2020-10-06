@@ -5,36 +5,33 @@ Hey Kendrick, do you want to share your library of HRFs here, and perhaps some e
 
 Kendrick Kay  3:46 PM
 These are 20 different HRFs (impulse response), parameterized according to spm_hrf.m.
-3:46
 The figure shows what these look like (if each is normalized to peak at 1).
-3:47
+
 figure.png 
 figure.png
 
 
-:+1:
-1
 
 3:47
 2 files 
 example.m
-MATLABClick to open
-
-
 hrfparams.mat
-3 kB Binary3 kB — Click to download
 
 
 3:48
-At some point I will release these materials as part of the NSD data release.  But you can have these in the meantime.   Essentially I derive these impulse responses based on the 8 NSD subjects.  The idea, then, is that you can fit a GLM using each of the 20 impulse responses (doing the convolution with the length of your stimulus duration) and then for each voxel, simply use the GLM results from the model that fit that voxel the best.
-3:48
+At some point I will release these materials as part of the NSD data release.  
+But you can have these in the meantime.   
+Essentially I derive these impulse responses based on the 8 NSD subjects.
+The idea, then, is that you can fit a GLM using each of the 20 impulse responses 
+(doing the convolution with the length of your stimulus duration) and then for each voxel, 
+simply use the GLM results from the model that fit that voxel the best.
 See what you think and I can discuss more about the details
-3:49
-Perhaps the hardest/trickiest part is knowing whether or not it did a good thing to your data...  but that's a separate topic...
+
+Perhaps the hardest/trickiest part is knowing whether or not it did a good thing to your data...  
+but that's a separate topic...
 
 icharest  3:52 PM
 ok, and you would then run 20 calls to GLMdenoise one for each, and then for a voxel, pick the max beta? (edited) 
-3:53
 we'll look into it and let you know if we have questions..
 
 Kendrick Kay  3:54 PM
