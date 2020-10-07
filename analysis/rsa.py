@@ -28,6 +28,8 @@ wdata, wdesign = whiten_data(data, design)
 ## Fit the GLM
 betas = fit_glm(wdata, wdesign)
 
+# unit-scale the data to be able to compare betas (within run)
+
 ## normalize betas
 
 
