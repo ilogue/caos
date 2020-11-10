@@ -31,16 +31,26 @@ wdata, wdesign = whiten_data(data, design)
 ## makes them into matrix???
 
 ## Transform to Percent Signal Change
+## https://www.brainvoyager.com/bv/doc/UsersGuide/StatisticalAnalysis/TimeCourseNormalization.html
 pdata = wdata / wdata.mean(axis=0)
 ## mean is not exactly 1, typically 0.995 - 1.005. problem?
 
 ## Fit the GLM
 betas = fit_glm(wdata, wdesign)
+# In [3]: betas.std(axis=0).mean() ## over timepoints
+# Out[3]: 12.219756516863749
+# In [4]: betas.std(axis=1).mean() ## over voxels
+# Out[4]: 9.616672491255056
 
-# unit-scale the data to be able to compare betas (within run)
-## https://www.brainvoyager.com/bv/doc/UsersGuide/StatisticalAnalysis/TimeCourseNormalization.html
 
-## normalize betas
+## aparcaseg
 
+##create pyrsa dataset, 
+## desc roi
+## desc cond
+
+## calc_rdm
+
+## reorder
 
 
