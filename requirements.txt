@@ -2,3 +2,4 @@ Dcm2Bids
 nibabel
 pandas
 glmdenoise==0.0.5
+templateflow
