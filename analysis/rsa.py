@@ -2,6 +2,8 @@ from os.path import join, expanduser
 import nibabel, nilearn.image, pandas, numpy
 from templateflow import api as tflow_api
 from analysis.glm import make_design, whiten_data, fit_glm
+from pyrsa.data.dataset import Dataset
+from pyrsa.rdm.calc import calc_rdm
 
 # The atlas namings correspond to the original FSL’s acronyms for them (
 # HOCPA=Harvard-Oxford Cortical Probabilistic Atlas; 
@@ -75,16 +77,15 @@ betas = fit_glm(wdata, wdesign)
 # In [4]: betas.std(axis=1).mean() ## over voxels
 # Out[4]: 9.616672491255056
 
-
-
-
-
-##create pyrsa dataset, 
-## desc roi
-## desc cond
-
-## calc_rdm
+## rsa
+datasets = Dataset(
+    measurements=betas,
+    obs_descriptors=dict(conds=events.entity.to_list()),
+    channel_descriptors=dict(regions=atlas)
+).split_channel('regions')
+rdms = calc_rdm(datasets, descriptor='conds')
 
 ## reorder
+rdms.reorder(new_order)
 
 
